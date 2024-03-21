@@ -1,3217 +1,2723 @@
 STREET_NAME,count
 5th ave,43
 park ave,38
+grand central pkwy,32
 west end ave,27
 riverside dr,20
 central,19
-grand central pkwy,18
+broadway,18
 ocean pkwy,17
 ocean ave,17
-broadway,17
 amboy rd,16
+queens blvd,14
 shore rd,13
 4th ave,12
 riverdale ave,12
+81st st,12
 lexington ave,11
 clove rd,11
+85th st,11
+62nd dr,10
+88th st,10
 east 86th st,10
+metropolitan ave,10
+108th st,10
 madison ave,10
-nostrand ave.,9
-kappock st,9
+nostrand ave,9
+63rd rd,9
+82nd st,9
 johnson ave,9
-webster ave,8
-central park s,8
-neptune ave,8
+kappock st,9
 yellowstone blvd apt,8
+central park s,8
+union tpke,8
+113th st,8
+webster ave,8
+33rd st,8
+main st,8
+3rd ave,8
+63rd st,8
+8th ave,8
+neptune ave,8
 bay street landing,8
-3rd ave,7
-63rd st,7
+78th st,7
+83rd st,7
 arlington ave,7
-metropolitan ave,7
-putnam ave,7
-shore rd apt,7
+26th ave,7
 grand concourse,7
+edgewater park,7
+madison st,7
+66th st,7
+tompkins ave,7
+shore rd apt,7
 prospect pl,7
+79th st,7
 ridge blvd,7
-8th ave,7
-palisade ave,6
-edgewater park,6
-5th ave apt,6
-harding park,6
-henry hudson pkwy,6
-61-20 grand central pkwy,6
-82nd st,6
-6th ave,6
-franklin st,6
-madison st,6
-richmond rd,6
+putnam ave,7
+215th st,7
+92nd st,6
+169th st,6
 grand st,6
+35th ave,6
 pine st,6
+46th ave,6
+powells cove blvd,6
+lafayette ave,6
+palisade ave,6
+97th st,6
+5th ave apt,6
 thompson st,6
-97-37 63rd rd,5
-riverside blvd,5
-broadway apt,5
-80th st apt,5
-108th st apt,5
-independence ave,5
-east end ave,5
-henry hudson,5
-bay ridge ave,5
-lafayette ave,5
-shore pkwy,5
-adams st,5
-ovington ave,5
-bedford ave,5
-avenue h,5
-reade st,5
-jefferson ave,5
-hylan blvd,5
-kings hwy,5
+6th ave,6
+35th st,6
+woodhaven blvd,6
+15th ave,6
+henry hudson pkwy,6
+72nd st,6
+87th st,6
+86th st,6
+franklin st,6
+34th ave,6
+harding park,6
+richmond rd,6
+84th st,6
+northern blvd,5
+61st st,5
 herkimer st,5
-main st,5
-bank st,5
-vanderbilt ave,5
-lincoln pl,5
-brighton 5th st,5
-66th st,5
-brighton 1st rd,5
+corona ave,5
+3rd st,5
+120th st,5
+henry hudson,5
 avenue p,5
-atlantic ave,5
-netherland ave,5
-72nd st apt,5
+brighton 5th st,5
+kings hwy,5
+shore pkwy,5
+ovington ave,5
 emmons ave apt,5
+9th ave,5
+39th ave,5
+66th rd,5
+72nd st apt,5
+80th st apt,5
+netherland ave,5
+bank st,5
+reade st,5
+lincoln pl,5
+broadway apt,5
+60th ave,5
+7th ave,5
+jefferson ave,5
+booth st,5
+adams st,5
+east end ave,5
+brighton 1st rd,5
+greene ave,5
+80th st,5
+65th st,5
+riverside blvd,5
+bedford ave,5
+hylan blvd,5
+28th ave,5
 holland ave,5
+165th st,5
+austin st,5
+108th st apt,5
+77th st,5
+63rd ave,5
+73rd st,5
+atlantic ave,5
+bay ridge ave,5
+71st st,5
+vanderbilt ave,5
+avenue h,5
 2nd ave,5
-87-15 165th st,4
-front st,4
-hart blvd,4
-ely ave,4
-troy ave,4
+independence ave,5
+65th pl,4
+vermont st,4
+barnes ave,4
 glenmore ave,4
-ave. s,4
-convent ave,4
-remsen st,4
-mill ave,4
-columbus ave,4
-fordham hill oval,4
-72nd st,4
-cliff st,4
-greenwich st,4
-5th ave ,4
-bay ridge pkwy,4
+14th ave,4
+95th st,4
+115th ave,4
+bell blvd,4
+bleecker st,4
+thomas s boyland st,4
+30th ave,4
+yellowstone blvd,4
+138th st,4
+26987th st,4
 39th ave apt,4
-jane st,4
-national dr,4
-82nd st apt,4
-78th st,4
 huguenot ave,4
-61-15 97th st,4
-bergen st,4
-81st st,4
-goethals rd n,4
-cabrini blvd apt,4
-3rd st.,4
-carroll st,4
+bowne st,4
 brigham st,4
 anderson ave,4
-tudor city pl,4
-windham loop,4
+dumont ave,4
+national dr,4
+fordham hill oval,4
+118th st,4
+goethals rd n,4
+remsen st,4
+89th st,4
+cabrini blvd apt,4
+17th ave,4
+front st,4
+59th ave,4
 glenwood rd,4
-barnes ave,4
-vermont st,4
-park ave apt,4
-97-40 62nd dr,4
-26987th st,4
-powells cove blvd,4
-tompkins ave,4
-highland ave apt,4
-thomas s boyland st,4
+173rd st,4
+75th st,4
+37th ave,4
+213th st,4
+38th ave,4
+windham loop,4
+60th st,4
+jane st,4
+bergen st,4
+ely ave,4
 flatlands ave,4
-26th ave,4
-davis ave,3
+greenwich st,4
+126th st,4
+columbus ave,4
+217th st,4
+convent ave,4
+tudor city pl,4
+troy ave,4
+carroll st,4
+141st st,4
+park ave apt,4
+5th ave ,4
+98th st,4
+150th st,4
+hart blvd,4
+ave s,4
+115th st,4
+ave,4
+parsons blvd,4
+highland ave apt,4
+cliff st,4
+166th st,4
+90th st,4
+bay ridge pkwy,4
+mill ave,4
+54th st,4
+48th st,4
+82nd st apt,4
+73rd ave,3
 12th st,3
-monroe pl,3
-brown st,3
-central park s ,3
-city island ave,3
-queens blvd,3
-gramercy park n,3
-77110th st,3
-17th st,3
-charles st,3
-fingerboard rd,3
-douglas rd,3
-40160th st,3
-148-09 northern blvd,3
-bennett ave,3
-washington ave,3
-park,3
-86th st,3
-st marks ave,3
-20563rd st,3
-sunset blvd,3
-vineland ave,3
-manhattan ave,3
-wall st apt,3
-college ave,3
-31046th st,3
-barrow st,3
-cropsey ave,3
-park ave ,3
-croes ave,3
-west st,3
-bridge park dr,3
-roosevelt ave apt,3
-middletown rd,3
-ionia ave,3
-fulton st,3
-pine st apt,3
-35-31 85th st,3
-bleecker st,3
-73rd st,3
-84th st,3
-dekalb ave,3
-67-66 108th st,3
-rivington st,3
-schenectady ave,3
-jackson st,3
+1st ave,3
+99th st,3
+43rd ave,3
+159th st,3
+union st,3
+wetherole st,3
+112th st,3
+66th ave,3
+202nd st,3
 ocean view ave,3
-bushwick ave,3
-decatur st,3
-coddington ave,3
-rhinelander ave,3
-furman st apt,3
-218103rd st,3
-grant ave,3
-goodridge ave,3
-mcdonald ave,3
-unionport rd,3
-lurting ave,3
-tompkins ave.,3
-15th ave,3
-water st,3
-68-5 138th st,3
-adam clayton powell jr blvd,3
-255th st,3
-park pl,3
-westervelt ave,3
-montreal ave,3
-hone ave,3
-34-41 85th st,3
-7th ave,3
-greene ave,3
-17-85 215th st,3
-waverly pl,3
-avenue l,3
 rutland rd,3
-bay club dr,3
-degraw st,3
-bainbridge st.,3
-pinehurst ave,3
-newkirk ave,3
- surf ave,3
-fieldston rd,3
-purdy st,3
-essex st,3
-voorhies ave,3
-greenwich st apt,3
-35th ave apt,3
-ave v,3
-wooster st,3
-perry st,3
-30357th st,3
-269-10 grand central pkwy,3
-33391st st,3
-whitman dr,3
-pierrepont st,3
-1st ave.,3
-lake ave,3
-st johns pl,3
-91-23 corona ave.,3
-hamilton ave,3
-richmond terrace,3
-seneca ave,3
-4th st,3
-45551st st,3
-schenck ave,3
+91st st,3
+westervelt ave,3
 murray st,3
-van siclen ave,3
-shepherd ave,3
-50th st,3
-delafield ave,3
-72nd rd apt,3
-bridge st,3
+degraw st,3
+69th ave,3
+43rd st,3
+washington ave,3
+rivington st,3
+33391st st,3
+grant ave,3
+fingerboard rd,3
+avenue l,3
+coddington ave,3
+lefferts blvd,3
+77110th st,3
+central park s ,3
+roosevelt ave apt,3
+vineland ave,3
+thornton pl,3
 11th ave,3
-irving pl,3
-eastern pkwy,3
-sterling pl,3
+delafield ave,3
+corporal kennedy st,3
+49th st,3
+van siclen ave,3
+water st,3
+bainbridge st,3
+127th st,3
+41st st,3
+college point blvd,3
+furman st apt,3
+manhattan ave,3
+bay club dr,3
+50th st,3
+cropsey ave,3
+park pl,3
+255th st,3
+jackson st,3
+72nd rd,3
+city island ave,3
+rockaway beach blvd,3
+goodridge ave,3
+45551st st,3
+193rd st,3
+middletown rd,3
+27th st,3
+alderton st,3
+148th st,3
+perry st,3
+voorhies ave,3
+essex st,3
+211th st,3
+cross island pkwy,3
+dekalb ave,3
+unionport rd,3
+fieldston rd,3
+251st st,3
+hillside ave,3
+30357th st,3
+fulton st,3
 west end ave apt,3
-corlear ave,2
-buel ave,2
-oxford ave,2
-meserole st,2
-corners rd,2
+ surf ave,3
+140th st,3
+sunset blvd,3
+ditmars blvd,3
+21st ave,3
+16th ave,3
+schenck ave,3
+ave v,3
+45th st,3
+bridge st,3
+decatur st,3
+rhinelander ave,3
+56th st,3
+71st ave,3
+35th ave apt,3
+20563rd st,3
+wooster st,3
+64th st,3
+16th rd,3
+ionia ave,3
+pine st apt,3
+wall st apt,3
+199th st,3
+manor rd,3
+college ave,3
+bushwick ave,3
+eastern pkwy,3
+purdy st,3
+96th st,3
+beach 101st st,3
+sterling pl,3
+charles st,3
+monroe pl,3
+st,3
+lake ave,3
+newkirk ave,3
+93rd st,3
+franklin ave,3
+waverly pl,3
+136th st,3
+pierrepont st,3
+park ave ,3
+pinehurst ave,3
+nassau ave,3
+roosevelt ave,3
+park,3
+62nd ave,3
+lurting ave,3
+crescent st,3
+highland ave,3
+irving pl,3
+218103rd st,3
+31046th st,3
+17th st,3
+west st,3
+bennett ave,3
+schenectady ave,3
+davis ave,3
+hamilton ave,3
+douglas rd,3
+st marks ave,3
+greenwich st apt,3
+montreal ave,3
+93rd st apt,3
+richmond terrace,3
+hone ave,3
+barrow st,3
+st johns pl,3
+brown st,3
+100th ave,3
+72nd rd apt,3
+145th st,3
+sanford ave,3
+croes ave,3
+40160th st,3
+41st ave,3
+gramercy park n,3
+shepherd ave,3
+inwood st,3
+mcdonald ave,3
+adam clayton powell jr blvd,3
+4th st,3
+colden st,3
+seneca ave,3
+bridge park dr,3
+whitman dr,3
+burnett st,2
+68th ave,2
+212th st,2
+maryland ave,2
+milford st,2
+71st ave apt,2
+rockland ave,2
+91st st apt,2
  255th st,2
-21-57 33rd st,2
-22nd st,2
-153-25 88th st,2
-127th st,2
-avenue t,2
-piedmont ave,2
-oceana drph,2
-robinson ave,2
-212th st ,2
-brighton ave,2
-55121st st,2
-beach 101st st,2
-woodhull ave,2
-126th st,2
-71st rd apt,2
-brighton 8th st,2
- 5th ave,2
-bay 49th st,2
-avenue m,2
-hart st,2
-21757th st,2
-watchogue rd,2
-powells cove blvd apt,2
-blackstone ave,2
-thieriot ave,2
-broome st,2
-jerome st,2
-annadale rd,2
-17578th st,2
-argyle rd,2
+42nd ave,2
+major ave,2
+kings college pl,2
+mosely ave,2
+eliot ave,2
+seafoam st,2
+glenwood st,2
+buell st,2
+219th st,2
+fort hamilton pkwy,2
+beach front rd,2
+lander ave,2
+vestry st,2
+gray st,2
+elder ave,2
+57th ave,2
+30122nd st,2
+longfellow ave,2
+204th st,2
+190th st,2
+boulevard,2
+greencroft ave,2
+53572nd st,2
+74th st,2
+elizabeth st,2
+littlest,2
+arielle ln,2
+83rd st apt,2
+adee ave,2
+lincoln ave,2
 burns st apt,2
-dumont ave,2
 bailey ave,2
-bedford st,2
+india st apt,2
+piedmont ave,2
+81st st apt,2
+tudor city,2
+brehaut ave,2
+164th ave,2
+avenue u,2
+melbourne ave,2
+grand ave,2
+heath ave,2
+beach channel dr,2
+post ln,2
+henry st,2
+cannon ave,2
+waldo ave,2
+madison ave apt,2
+142nd st,2
+brighton 4th st,2
+146th st,2
+nelson ave,2
+heberton ave,2
+73rd st apt,2
+dartmouth st,2
+st nicholas ave,2
+58th st,2
+oceana,2
+ old fulton st,2
+143rd st,2
+bay 49th st,2
+central park w,2
+fairfield ave,2
+joralemon st,2
+hancock st,2
+oceana drph,2
+41859th st,2
+argyle rd,2
+annadale rd,2
+buel ave,2
+meserole st,2
+congress st,2
+united nations plaza,2
+ 23056th st apt,2
+queens blvd ,2
+eldridge st,2
+153rd ave,2
+washington st,2
+bianca ct,2
+55559th st,2
+jackson ave,2
+176th st,2
+foster ave,2
+62nd dr apt,2
+bay st,2
+31950th st,2
+11860th st,2
+112th ave,2
+ 5th ave,2
+hart st,2
+120053rd st,2
+fenimore st,2
+145th dr,2
+248th st,2
+21218th st,2
+senator st,2
+turneur ave,2
+raritan ave,2
+70th st,2
+park dr e,2
+75th ave,2
+20381st st,2
+ct square w,2
+faile st,2
+beaumont st,2
+bay 13th st,2
+144th st,2
+waring ave,2
+30163rd st,2
+94th st,2
+myrtle ave,2
+76th rd,2
+47th ave,2
+hawthorne st,2
+10112th st apt,2
+24003rd st apt,2
+montgomery st,2
+haring st,2
+tomlinson ave,2
+brighton 7th st,2
+bergen ave,2
+suydam st,2
+12036th st,2
+clermont ave,2
+carpenter ave,2
+14th st,2
+hudson yards,2
+powells cove blvd apt,2
+31st ave,2
+oxford ave,2
 6494th st,2
 eldert st,2
-columbus cir,2
-69-10 108th st,2
 patchen ave,2
-radcliff ave,2
-avenue k,2
 18127th st,2
-43rd st,2
-hawthorne st,2
-india st apt,2
-65-38 booth st,2
-41859th st,2
-elmhurst ave apt,2
-hudson yards,2
-15th st,2
-31950th st,2
-elizabeth st,2
-haring st,2
-12036th st,2
-montgomery st,2
-littlest,2
+columbus cir,2
+valentine ave,2
+1754th st,2
+543122nd st,2
+roe st,2
+cozine ave,2
+blackstone ave,2
+20121st st,2
+22nd st,2
+brighton 8th st,2
+4572nd st,2
+38989th st,2
+88th ave,2
+surf ave,2
+34757th st,2
+coney island ave,2
+sullivan st,2
+24360th st,2
+68th st,2
+25th rd,2
+prospect,2
+25472nd st,2
+29285th st,2
+32042nd st apt,2
+cooper st,2
+30366th st,2
+van cleef st,2
+taylor st,2
+pople ave,2
+sterling st,2
+amsterdam ave,2
+1475th st,2
 18680th st,2
+middle loop rd,2
+kingsbridge terrace,2
+100th st,2
+3635th st,2
+5565th st,2
+ralph ave,2
+kent ave,2
+fillmore pl,2
+135th ave,2
+united nations plaza apt,2
 33038th st,2
-85th st,2
-arielle ln,2
+elmhurst ave apt,2
 52229th st,2
-beach front rd,2
-41-62 bowne st,2
-cross island pkwy,2
 640237th st,2
 van buren st,2
 queens blvd ste,2
-83rd st apt,2
-18-05 215th st,2
 cornelia st,2
 gramercy,2
-adee ave,2
-lincoln ave,2
-tibbett ave,2
-clermont ave,2
 laight st,2
-37-30 83rd st,2
-united nations plaza apt,2
-53572nd st,2
-lander ave,2
-62nd dr apt,2
-longfellow ave,2
-3635th st,2
-54th st,2
-bergen ave,2
-55559th st,2
-foster ave,2
-152-18 union tpke,2
-151-25 88th st,2
-major ave,2
-ralph ave,2
-23-55 bell blvd,2
-kingsbridge terrace,2
-61st st,2
-suydam st,2
-kent ave,2
-bianca ct,2
-vestry st,2
-104-14 37th ave,2
-middle loop rd,2
-brighton 7th st.,2
-greencroft ave,2
-fillmore pl,2
+132nd st,2
+51st ave,2
+ketcham st,2
 jefferson st,2
-tomlinson ave,2
 seward ave,2
-bay st,2
-carpenter ave,2
-72-81 113th st,2
-covert st.,2
-mermaid ave,2
-248316th st,2
-77th st,2
- 23056th st apt,2
-90th st,2
-macdonough st,2
-revere ave,2
-20th ave,2
-weed ave,2
-24003rd st apt,2
-96th st,2
-164-20 highland ave,2
-hoe ave,2
-salamander ct,2
-greenleaf ave,2
-vandam st,2
-280528th st,2
-cypress ave,2
-37-32 89th st,2
-decatur ave,2
-mosely ave,2
-united nations plaza,2
-cozine ave,2
-jaffray st,2
-manor rd,2
-congress st,2
-jewett ave,2
-kings college pl,2
-queens blvd ,2
-hobart ave,2
- john st,2
-39th ave,2
-fort hamilton pkwy,2
-60-70 woodhaven blvd,2
-washington st,2
 wheeler ave,2
-679239th st,2
 douglaston pkwy apt,2
-brady ave apt,2
-sanford st,2
-bancroft ave,2
-getz ave,2
-tierney pl,2
-85th st apt,2
-fairfield ave,2
-roe st,2
-97-10 62nd dr,2
-montauk ave.,2
-11860th st,2
-eldridge st,2
-benson ave,2
-marion st,2
-village rd s,2
-hampton pl,2
-hancock st,2
-brooklyn ave,2
-seafoam st,2
-perry ave,2
-120053rd st,2
-wellbrook ave,2
-4572nd st,2
-150-38 union tpke,2
-nelson ave,2
-247516th st,2
-wilson ave,2
-32541st st apt,2
-freeborn st,2
-avenue z,2
-slater blvd,2
-william st,2
-surf ave,2
-brighton 4th st,2
-17th ave,2
-34757th st,2
-4055th st,2
-141st st,2
-bethel ave,2
-cooper st,2
-boyd ave,2
-32042nd st apt,2
-madison ave apt,2
-coney island ave,2
-b st,2
-bayview ave,2
-waldo ave,2
-29285th st,2
-cannon ave,2
-71st ave apt,2
-henry st,2
-post ln,2
-clinton st,2
-20381st st,2
-30366th st,2
-543122nd st,2
-ct square w,2
-spring st,2
-remsen ave,2
-20121st st,2
-seymour ave,2
-richmond hill rd,2
-heberton ave,2
-vietor ave apartment,2
-snyder ave,2
-65th st,2
-willoughby ave,2
-33-05 92nd st,2
-52090th st,2
-255108th st,2
-cruger ave,2
-71st st apt,2
-118-18 union tpke,2
-83-80 118th st,2
-309108th st,2
-270-10 grand central pkwy,2
-76th rd apt,2
-89th st,2
-taylor st,2
-bell blvd apt,2
-grandview ave,2
-79th st,2
-3923rd st,2
-harbour ct,2
-215th st apt,2
-mott st,2
-33-15 81st st,2
-avenue j,2
-grove st,2
-30-38 29th st,2
-80th st,2
-brehaut ave,2
-s greenleaf ave,2
-milford st,2
- oxford ave,2
-rockland ave,2
-tudor city,2
-gerard ave,2
-24360th st,2
-st,2
-amsterdam ave,2
-union ave,2
-81st st apt,2
-hollywood ave,2
-hillside ave,2
-35-45 81st st,2
-burnett st,2
-10112th st apt,2
-cromwell ave,2
-sterling st,2
-30122nd st,2
-92-29 queens blvd,2
-arlington ave apt,2
-fenimore st,2
-9th ave,2
-benedict rd,2
-sullivan st,2
-sinclair ave,2
-manhattan st,2
-33366th st,2
-cortelyou rd,2
-6th ave apartment,2
-25472nd st,2
-classon ave,2
-45th st,2
-14163rd st,2
-60th st,2
-prospect,2
-64-34 grand central pkwy,2
-raritan ave,2
-maryland ave,2
-pacific st,2
-heath ave,2
-83rd st,2
-122102nd st,2
-turneur ave,2
-83-55 woodhaven blvd,2
-senator st,2
-71st st,2
-15283rd st,2
-avenue u,2
-narrows ave,2
-colfax ave,2
-110-11 queens blvd,2
-21218th st,2
-91st st apt,2
-20094th st apt,2
-de reimer ave,2
-father capodanno blvd,2
-center pl,2
-50043rd st,2
-continental ave,2
-16488th st,2
-genesee ave,2
-1754th st,2
-kelly blvd,2
-bay 13th st,2
-93rd st apt,2
-newel st,2
-265131st st,2
-royce st,2
-correll ave,2
-5565th st,2
-knolls crescent,2
-arthur ave,2
-27th st,2
-colonial rd,2
-st nicholas ave,2
-1475th st,2
-231-23555th st ,2
-43-33 48th st,2
-central park w,2
-ward ave,2
-58th st,2
 jones st,2
 mosholu ave,2
-oceana,2
-82-25 queens blvd,2
-topping ave,2
-13235th st,2
-throgs neck blvd,2
-bolton st,2
-58- 251st st,2
-20036th st,2
-30163rd st,2
-5th ave fl,2
-42524th st,2
-sheldon ave,2
-56th st,2
-maine ave,2
-fteley ave,2
-nassau ave,2
-emmons ave,2
-123-35 82nd rd,2
-joralemon st,2
-frederick douglass blvd,2
-pitkin ave,2
-avenue d,2
-hudson st,2
-prospect park w,2
-beaumont st,2
- old fulton st,2
-38989th st,2
-ashford st,2
-todt hill rd,2
-51-42 30th ave.,2
-valentine ave,2
-635170th st,2
-37-50 87th st,2
-21st ave,2
-waring ave,2
-73rd st apt,2
+pkwy s,2
+16488th st,2
+265131st st,2
 bay 10th st,2
-31441st st apt,2
-52942nd st,2
-faile st,2
-cedarcliff rd,2
-st marks pl,2
-lafayette st,2
-lenox ave,2
-crescent st.,2
-sutton pl s,2
+116th st,2
+brighton ave,2
+87th ave,2
+63rd dr,2
+avenue k,2
+talbot st,2
+covert st,2
+113th ave,2
+280528th st,2
+268th st,2
+248316th st,2
+ john st,2
+brooklyn ave,2
+marion st,2
+241st st,2
+21757th st,2
+203rd st,2
+ oxford ave,2
+william st,2
+209th st,2
 17404th st,2
-15051st st apt,1
-501136th st,1
-25257th st,1
-527d156th st,1
-100121st st,1
-swinnerton st,1
-51080th st apartment,1
-henry hudson pkwy w,1
-99-72 66th rd,1
-1622nd st,1
-21617th st,1
- 139th st,1
-99-40 63rd rd,1
-albany st,1
-123510th st,1
-54129th st,1
-21720th st,1
-21323rd st,1
-2885195th st,1
-macdougal st,1
-180-14 69th ave,1
-20510th st,1
-42120th st,1
-98-34 63rd dr,1
-5371st st,1
-97th pl,1
-4th pl,1
-84-25 118th st,1
-77-32 vleigh pl,1
-post rd,1
-512156th st,1
-107572nd st,1
-200-03 34th ave,1
-bay club dr apartment,1
-39-15 212th st,1
-20-08 150th st,1
-12969th st,1
-brooklyn ave apt,1
-89537th st,1
+50043rd st,2
+spring st,2
+richmond hill rd,2
+110th st,2
+cruger ave,2
+3923rd st,2
+32541st st apt,2
+avenue z,2
+4055th st,2
+20th ave,2
+boyd ave,2
+clinton st,2
+mott st,2
+grove st,2
+classon ave,2
+14163rd st,2
+pacific st,2
+6th ave apartment,2
+15283rd st,2
+29th st,2
+lenox ave,2
+royce st,2
+42524th st,2
+5th ave fl,2
+151st ave,2
+hoe ave,2
+jewett ave,2
+17578th st,2
+52nd st,2
+bedford st,2
+172nd st,2
+212th st ,2
+71st rd apt,2
+estates ln,2
+221st st,2
+colonial rd,2
+67th ave,2
+kelly blvd,2
+13235th st,2
+pearson st,2
+emmons ave,2
+newel st,2
+maine ave,2
+55th st,2
+20036th st,2
+tibbett ave,2
+perry ave,2
+sutter ave,2
+129th st,2
+throgs neck blvd,2
+de reimer ave,2
+continental ave,2
+bolton st,2
+weed ave,2
+grandview ave,2
+bell blvd apt,2
+centerville st,2
+sheldon ave,2
+41st rd,2
+20094th st apt,2
+st marks pl,2
+union ave,2
+216th st,2
+76th rd apt,2
+170th st,2
+salamander ct,2
+emily rd,2
+309108th st,2
+253rd st,2
+55121st st,2
+82nd ave,2
+harbour ct,2
+215th st apt,2
+avenue m,2
+23rd ave,2
+ashford st,2
+father capodanno blvd,2
+10th ave,2
+wilson ave,2
+188th st,2
+220th st,2
+23123555th st ,2
+sinclair ave,2
+82nd rd,2
+avenue d,2
+247516th st,2
+111th ave,2
+knolls crescent,2
+calloway st,2
+genesee ave,2
+hobart ave,2
+macdonough st,2
+watchogue rd,2
+157th st,2
+revere ave,2
+71st st apt,2
+colfax ave,2
+robinson ave,2
+255108th st,2
+lafayette st,2
+junction blvd,2
+avenue j,2
+arlington ave apt,2
+52942nd st,2
+radcliff ave,2
+71st rd,2
+85th rd,2
+sutton pl s,2
+kessel st,2
+broome st,2
+104th st,2
+corners rd,2
+todt hill rd,2
+george st,2
+frederick douglass blvd,2
+cromwell ave,2
+corlear ave,2
+122102nd st,2
+69th st,2
+635170th st,2
+thieriot ave,2
+chevy chase st,2
+31441st st apt,2
+greenleaf ave,2
+remsen ave,2
+vandam st,2
+134th st,2
+cypress ave,2
+52090th st,2
+131st ave,2
+willoughby ave,2
+decatur ave,2
+avenue t,2
+snyder ave,2
+vietor ave apartment,2
+narrows ave,2
+fteley ave,2
+hollywood ave,2
+jaffray st,2
+ward ave,2
+woodhull ave,2
+benedict rd,2
+seymour ave,2
+181st st,2
+lamont ave,2
+hobart st,2
+91st ave,2
+jerome st,2
+linden blvd,2
+mermaid ave,2
+slater blvd,2
+village rd s,2
+42nd st,2
+102nd st,2
+cortelyou rd,2
+cedarcliff rd,2
+107th ave,2
+gates ave,2
+33366th st,2
+benson ave,2
+york ave,2
+679239th st,2
+brady ave apt,2
+correll ave,2
+pitkin ave,2
+topping ave,2
+sanford st,2
+manhattan st,2
+prospect park w,2
+47th st,2
+montauk ave,2
+bancroft ave,2
+getz ave,2
+bethel ave,2
+s greenleaf ave,2
+wellbrook ave,2
+85th st apt,2
+arthur ave,2
+tierney pl,2
+hudson st,2
+b st,2
+gerard ave,2
+laurelton pkwy,2
+hampton pl,2
+165th ave,2
+center pl,2
+freeborn st,2
+bayview ave,2
+judge st,1
+33094th st,1
+150948th st,1
+367201st st,1
+6th ave apt,1
+market st,1
 22065th st,1
-n 3rd st apt,1
+washington st fl,1
 245513th st,1
-knickerbocker ave,1
-76237th st,1
-barclay ave apt,1
-669th st,1
-116-40 148th st,1
-53126th st,1
-804180th st apt,1
+charlton st,1
+prince st,1
+609th st apt,1
+89537th st,1
+107572nd st,1
+vyse ave,1
+512156th st,1
+42051st st,1
+austin pl apt,1
+133140th st,1
+adelphi ave,1
+post rd,1
+richmond terrace apt,1
+bay 22nd st,1
+swinnerton st,1
+21617th st,1
+54129th st,1
+1563rd st,1
+51080th st apartment,1
+marisa ct,1
+42579th st,1
 32257th st,1
-50112th st,1
-371120th st,1
-104-33 39th ave,1
-115- inwood st,1
+42550th st,1
+28535th st,1
 40189th st apt,1
-60557th st,1
-212026th st,1
-kathy pl,1
-40-11 102nd st,1
-81-36 267th st,1
-230766th st,1
-43-17 20th rd,1
+dare ct,1
+267th st,1
 rombouts ave,1
 sherman st,1
-91-31 113th st,1
+97th pl,1
 ramapo ave,1
-21284th st,1
-denker pl,1
-5-42 115th st,1
-goller pl,1
-116-34 146th st,1
-charlton st,1
-aviston st,1
-frederick douglass blvd c,1
-montague st,1
-57528th st,1
-43-15 54th st,1
-118-17 union tpke,1
-rockaway ave,1
-35-15 84th st,1
-68-09 booth st,1
-69-33 165th st,1
-wetherole st apt,1
-109th st apt,1
-1168th st,1
-30157th st,1
-neal dow ave,1
-venus ln,1
-73-09 21st ave,1
+vleigh pl,1
+85039th st,1
 14063rd st,1
-45-53 169th st,1
-market st,1
-20357th st,1
-776a brook ave,1
-121136th st,1
-winant pl,1
-troutman st,1
-35631st st,1
-227-10 88th ave,1
-69-08 myrtle ave,1
-61-44 77th st,1
-101-11 remington st,1
-33-26 92nd st,1
-185512th st,1
-84-40 153rd ave,1
-30152nd st,1
-abbey ct,1
-24929th st,1
-50083rd st,1
-dikeman st,1
-12380th st,1
-435117th st apt,1
-bay 16th st,1
-richmond ave,1
-67-71 yellowstone blvd,1
-70th st,1
-80-06 47th ave,1
-18-55 corporal kennedy st,1
-mulford ave,1
-16252nd st,1
-ambassador ln,1
-32-58 77th st,1
-washington park,1
-158-16 79th ave,1
-57-34 159th st,1
-183-05 145th dr,1
-park hill cir,1
-35-54 95th st,1
-127270th st,1
-sackett st apt,1
-85-26 edgerton blvd,1
-31456th st,1
-33518th st,1
-504111th st apt,1
-205-23 113th ave,1
-west st apt,1
-54049th st ph,1
-24771st st,1
-hewitt ave,1
-4062nd st,1
-mcguinness blvd,1
-99-11 60th ave,1
-367201st st,1
-118-82 metropolitan ave,1
-onderdonk ave,1
-133140th st,1
- 2810th st,1
-15953rd st,1
-4580th st,1
-28535th st,1
-leonard ave,1
-89-22 155th ave,1
-35-11 85th st,1
-satterlee st,1
-89-02 171st st,1
-14231st st,1
-42-31 colden st,1
-grafton st,1
-morris ave,1
-darnell ln,1
-25082nd st,1
-lincoln rd,1
-fillmore st,1
-176th st,1
-bogota st,1
-beaver st,1
-sanford ave ,1
-125-15 defoe st,1
-41-38 66th st,1
-30085th st apt,1
-736186th st,1
-5997th st,1
-110-36 199th st,1
-2773rd st,1
-1481st st,1
-dahill rd,1
-11614th st fl,1
-22411th st apt,1
-58-36 79th st,1
-45017th st apt,1
-503182nd st,1
-669237th st,1
-22889th st,1
-center blvd,1
-port richmond ave,1
-beverley rd,1
-hegeman ave,1
-31-36 48th st,1
-42658th st ph,1
-126-15 103rd ave,1
-victor st,1
-120-15 145th st,1
-20798th st,1
-van nostrand ct,1
-baltic st,1
-13-56 bell blvd,1
-42-11 astoria blvd n,1
-117-23 142nd st,1
-oxford st,1
-remsen st apt,1
-mayfair dr n,1
-855223rd st,1
-99-25 60th ave,1
-mackenzie st,1
- 21596th st,1
-32-86 33rd st,1
-51572nd st,1
-87-66 257th st,1
-shore dr,1
-teri ct,1
-manor ave,1
-myrtle ave,1
-234138th st,1
-73-27 193rd st,1
-dewey ave,1
-147-20 76th rd,1
-141-9 28th ave,1
-warren st b,1
-hicks st,1
-43-64 bowne st,1
-32441st st,1
-quentin rd,1
-170-174 mermaid ln,1
-3511th st,1
-73- 220th st,1
-20-61 49th st,1
-34-10 94th st,1
-83-85 woodhaven blvd,1
-21-78 35th st,1
-33-04 93rd st apt,1
-6196th st,1
-115-04 144th st,1
-russell st,1
-,1
-clifton pl,1
-gordon st,1
-albemarle rd,1
-crescent st apt,1
-nautilus st,1
-46-03 104th st,1
-40-26 college point blvd,1
-broadway ph,1
-64th ave apt,1
-260-46 73rd ave,1
-149-37 9th ave,1
-108-50 62nd dr,1
-13038th st,1
-110-19 saultell ave,1
-59th ave,1
-136th st,1
-99-27 francis lewis blvd,1
-42-39 248th st,1
-13777th st,1
-34556th st,1
-29255th st,1
-171718th st,1
-217122nd st,1
-greencroft ln,1
-191426th st,1
-midland ave,1
-158-34 75th ave,1
-15037th st,1
-180-11 tudor rd,1
-saunders st,1
-92-30 56th ave,1
-pennsylvania ave,1
-113986th st,1
-140-31 cherry ave,1
-walker st,1
-3173rd st,1
-26127th st,1
-1764th st,1
-110-39 62nd dr,1
-213-02 42nd ave,1
-110-35 166th st,1
-84-49 264th st,1
-beach 125th st,1
-n pine terrace,1
-beach 60th st,1
-183-07 145th dr,1
-138-48 229th st,1
-149528th st,1
-34374th st,1
-2379th st c,1
-huntington st,1
-25075th st,1
-222-11 100th dr,1
-98-20 62nd dr,1
-4496th st,1
-21-26 81st st,1
-92184th st,1
-nixon ave,1
-104-40 alstyne ave,1
-5131st st,1
-21-68 35th st,1
-hunter ave,1
-31-32 100th st,1
-park ave s apartment,1
-gower st,1
-harding ave,1
-32057th st,1
-edgecombe ave,1
-43182nd st,1
-21944th st,1
-65-15 alderton st,1
-32190th st,1
-lawton ave,1
-713239th st,1
-brighton 14th st,1
-7013a park dr e,1
-clifton ave,1
-85-11 164th ave,1
-204467th st,1
-weirfield st,1
-12970th st,1
-2963rd st,1
-2483rd st,1
-2982nd st apartment,1
-7045th st ph,1
-31-53 45th st,1
-69th ave apt,1
-41-59 70th st,1
-bennett ave ,1
-lovell ave,1
-brightwater ct,1
-1776th st,1
-78-27 268th st,1
-232118th st,1
-autumn ave,1
-71-31 66th rd,1
-powers st,1
-37-30 73rd st,1
-23-16 36th st,1
-85-65 159th st,1
-128138th st,1
-26-25 141st st,1
-261-36 langston ave,1
-41-18 27th st,1
-106052nd st,1
-vanderbilt st,1
-7755th st,1
-stuyvesant ave,1
-ditmas ave apt,1
-171429th st,1
-5266th st,1
-35042nd st,1
-maple terrace,1
-149-47 115th st,1
-58-48 150th st,1
-bay 50th st,1
-willow st,1
-85737th st,1
- 600111th st,1
-647th st,1
-127551st st,1
-144-11 sanford ave,1
-park dr e,1
-32353rd st,1
-waverly ave,1
-bay 19th st,1
-62-96 woodhaven blvd,1
-1281223rd st,1
-howton ave,1
-royce pl,1
-144-44 41st ave,1
-fresh pond rd,1
-138-28 68th dr,1
-124987th st,1
-bragg st,1
-duncan st,1
-23-45 bell blvd,1
-alton pl,1
-10167th st ph,1
-154-12 65th ave,1
-144-85 roosevelt ave,1
-oakville st,1
-center dr,1
-29-11 butler st,1
-45th st apt,1
-93-04 177th st,1
-118-10 202nd st,1
-locust ct,1
-51st st,1
-135-16 221st st,1
-52984th st,1
-45-01 utopia pkwy,1
-calhoun ave,1
-edinboro rd,1
-davenport ct,1
-19-36 75th st,1
-41024th st,1
-130-35 145th st,1
-151-31 88th st,1
-12-11 jackson ave,1
-163-36 98th st,1
-622114th st,1
-32722nd st,1
-garfield pl,1
-peacock loop,1
-32896th st,1
-wright st,1
-miller ave,1
-83-52 talbot st,1
-333119th st,1
-junction blvd,1
-2367th st,1
-13391st st,1
-n henry st fl,1
-39-82 65th pl,1
-21-41 34th ave,1
-205th st ,1
-71-60 163rd st,1
-daleham st,1
-brighton 1st st,1
-keen ct,1
-235-18 147th rd,1
-1192nd st apt,1
-9-22 119th st,1
-137-39 75th rd,1
-3276th st apt,1
-51748th st apartment,1
-209118th st,1
-ketcham st,1
-research ave,1
-549149th st,1
-50-02 60th st,1
-112-20 210th st,1
-35-12 213th st,1
-143-40 poplar ave,1
-147-21 14th ave,1
-conklin ave,1
-172013th st,1
-35-40 82nd st,1
-1848th st,1
-58-13 waldron st,1
-541st st,1
-union tpke,1
-11136th st,1
-83-75 118th st,1
-145-37 115th ave,1
-n 9th st,1
-11413th st,1
-1181st st,1
-183-12 elmira ave,1
-12819th st,1
-45851st st,1
-15778th st,1
-46557th st,1
-67-27 181st st,1
-194-11 112th ave,1
-somers st ,1
-dalemere rd,1
-2777th st apt,1
-rathbun ave,1
-elmwood ave,1
-33-17 85th st,1
-2175th st apt,1
-78-16 main st,1
-edgewood rd,1
-21796th st,1
-1710th st,1
-211252nd st,1
-51106th st,1
- shore rd,1
-amity st,1
-63-31 136th st,1
-147-48 roosevelt ave,1
-213-07 28th ave,1
-729182nd st,1
-69-05 65th dr,1
-mt hope pl,1
-secor ave,1
-12388th st,1
-bryant ave,1
-richmond ct,1
-61-17 170th st,1
-76-36 113th st,1
-plumb 1st st apt,1
-212-15 35th ave,1
-soundview ave,1
-86-08 57th ave,1
-209th st,1
-17157th st,1
-92-19 241st st,1
-26th st,1
-cranford ave,1
-31679th st apt,1
-254-15 74th ave,1
-245-18 62nd ave,1
-64th st,1
-166-21 goethals ave,1
-ocean pkwy ste,1
-5010th st,1
-calloway st,1
-19072nd st,1
-rogers ave,1
-858223rd st,1
-lispenard st,1
-northern blvd ,1
-32182nd st apt,1
-pulaski st,1
-84-20 51st ave,1
-sutter ave,1
-30054th st,1
-rome ave,1
-lorimer st,1
-132-37 pople ave,1
-lafayette st apt,1
-17081st st,1
-1212a greene ave,1
-44-15 college point blvd,1
-102-30 66th rd,1
-5978th st,1
-1-26 beach 98th st,1
-142-15 franklin ave,1
-heusden st,1
-21-37 33rd st,1
-639th st,1
-104529th st,1
-80-14 90th rd,1
-tyrrell st,1
-33357th st ,1
-14th st,1
-eunice pl,1
-29912th st,1
-1066th st,1
-155th ave ,1
-31st st,1
-stonegate dr,1
-harman st,1
-43-20 union st,1
-60-01 metropolitan ave,1
-151st ave apt,1
-20058th st,1
-30153rd st,1
-constitution pl,1
-89-15 parsons blvd,1
-16066th st,1
-64-17 35th ave,1
-avenue p apartment,1
-mcbride st,1
-lenox rd,1
-13554th st,1
-114-30 202nd st,1
-67-50 thornton pl,1
-sheridan square,1
-149595th st,1
-36-33 169th st,1
-nassau st,1
-livingston st,1
-lenox rd apt,1
-130-14 60th ave,1
-5-30 47th ave,1
-144-60 gravett rd,1
-82nd ave,1
-65-38 austin st,1
-687232nd st,1
-new york ave apartment,1
-3826th st apt,1
-73rd ave,1
-dalton ave,1
-24225th st,1
-3061st st,1
-1218th st,1
-59-20 xenia st,1
-1136th st ste,1
-jewel ave,1
-4103rd st,1
-175014th st,1
-humphreys st,1
-116-10 14th rd,1
-kelvin ave,1
-23079th st,1
-blake ave,1
-63-14 queens blvd,1
-beach 121st st,1
-21-58 35th st,1
-102-04 63rd rd,1
-2985th st apt,1
-audubon ave,1
-226- 88th ave,1
-3222nd st,1
-liberty ave,1
-114-34 inwood st,1
-13-04 126th st,1
-22574th st,1
-daniel low terrace,1
-bathgate ave,1
-59-42 69th st,1
-61-09 39th ave,1
-1640th st,1
-40466th st,1
-20757th st,1
-78-06 46th ave,1
-491-49345th st,1
-190-45 112th ave,1
-20128th st,1
-15061st st,1
-12970th st apt,1
-rockaway beach blvd,1
-13026th st apt,1
-246129th st,1
-1561st st,1
-102-42 63rd ave,1
-307162nd st,1
-140th st,1
-135-30 94th st,1
-10-18 beach 22nd st,1
-16470th st,1
-90-20 55th ave,1
-zoe st,1
-32514th st,1
-warren st fl,1
-fairmount pl,1
-214-11 35th ave,1
- 40-22 61st st,1
-40174th st,1
-51579th st,1
-50127th st,1
-paulding ave,1
-brighton 4th walk,1
-141-10 25th rd,1
-alden park,1
-sheridan ave,1
-mcveigh ave,1
-17157th st apt,1
-64-48 booth st,1
-ocean ave apt,1
-120-09 linden blvd,1
-753b st ann's ave,1
-21-16 35th st,1
-667246th st,1
-2218th st,1
-alter ave,1
-33038th st apt,1
-20554th st,1
-anthony ave,1
-45-30 pearson st,1
-13-07 157th st,1
-44-15 purves st,1
-plymouth st,1
-prospect ave,1
-tabor ct,1
-baltic ave,1
-40274th st,1
-110-50 71st rd,1
-31183rd st,1
-548th st,1
- snyder ave apt,1
-265418th st,1
-70th rd ,1
-204-16 46th ave,1
-windsor pl,1
-leonard st,1
-217-10 135th ave,1
-300135th st,1
-140098th st,1
-30586th st,1
-ocean view ave apt,1
- 102-40 67th dr,1
-3367th st,1
-47th st,1
-31754th st,1
-lansing st,1
-sackett st,1
-166th st,1
-50780th st,1
-doane ave,1
-75-21 67th rd,1
-union ave ph,1
-204-20 46th ave,1
-219115th st,1
-37-02 31st ave,1
-14- 110th st,1
-s 4th st apartment,1
-89th ave apt,1
-fort independence st,1
-124048th st,1
-85-09 151st ave,1
-52-16 roosevelt ave,1
-ct squareph,1
-euclid ave,1
-main st apt,1
-hoyt st,1
-thomson ave unit,1
-beacon ave,1
-st marks pl apt,1
- 63-89 saunders st,1
-doone ct,1
-carlisle pl,1
-59584th st,1
-56th ave apt,1
-74-02 43rd ave,1
-99-52 66th rd,1
-gold st,1
-14-40 31st ave,1
-s portland ave unit,1
-138-35 elder ave,1
-beverly rd apt,1
-40-45 95th st,1
-73-12 35th ave c,1
-176913th st,1
-17374th st,1
-crotona ave,1
-919224th st,1
-25195th st,1
-monticello ave,1
-86-22 259th st,1
-30-41 86th st,1
-114789th st,1
-1313th st,1
-pierce ave,1
-22546th st,1
-34064th st,1
-5-49 borden ave,1
-48-44 65th pl,1
-1584th st,1
-68-15 eliot ave,1
-hudson st apt,1
-3255th st,1
-keap st,1
-152-72 melbourne ave,1
-18088th st apt,1
-22214th st,1
-90-11 35th ave,1
-43356th st,1
-22060th st,1
-60-66 catalpa ave,1
-21580th st,1
-132nd st,1
-jackson ave,1
-23470th st apt,1
-144-13 75th ave,1
-creston ave,1
-kissena blvd apt,1
-austin st apt,1
-32971st st apt,1
-42-22 191st st,1
-33-54 10th st,1
-54-44 little neck pkwy,1
-24215th st apt,1
-sleepy hollow rd,1
-adler pl,1
-stafford ave,1
-n 8th st,1
-97-52 75th st,1
-beach 129th st,1
-164-08 85th ave,1
-127112th st,1
-lafayette st rm,1
-34253rd st,1
-40th st,1
-adam clayton powell jr blvd apartment,1
-282515th st,1
-22280th st,1
-105-26 65th rd,1
-kenmore ct,1
-18875th st,1
-suffolk st,1
-richardson ave,1
-31523rd st,1
-bay 29th st,1
-32379th st,1
-3rd ave apt,1
-2322nd st,1
-28-26 160th st,1
-40174th st apartment,1
-clarence ave,1
-n 11th st,1
-33487th st apartment,1
-24572nd st,1
-westbrook ave,1
-gramercy pk s,1
-723211th st,1
-river terrace,1
-75-02 austin st,1
-11587th st,1
-corbin ave,1
-taaffe pl,1
-tony ct,1
-147-57 76th rd,1
-tiebout ave,1
-28-16 37th st,1
-5th ave suite,1
-883rd st ,1
-shakespeare ave,1
-96040th st,1
-eastchester rd,1
-17092nd st,1
-145-47 115th ave,1
-watson ave,1
-150-20 72nd rd,1
-88-01 77th st,1
-84th st apt,1
-ash ave,1
-30040th st apt,1
-210103rd st,1
-117-68 140th st,1
-76-24 176th st,1
-257-21 87th ave,1
-matilda ave,1
-kiswick st,1
-34472nd st,1
-44475th st,1
-34-53 60th st,1
-archer rd,1
-73989th st,1
-dekoven ct,1
-20062nd st,1
- 883rd st,1
-3172nd st,1
-17076th st,1
-brewster st,1
-vanderbilt ave apartment,1
-thornton pl,1
-225-8 hillside ave.,1
-broad st fl,1
-6055th st,1
-east 100th street,1
-61-19 75th pl,1
-34656th st,1
-28111th st,1
-726134th st,1
-21-05 33rd st,1
-4916th st,1
-5416th st,1
-30-05 vernon blvd,1
-12-07 40th ave,1
-colfax ave apt,1
-20577th st,1
-42055th st,1
-monsey pl,1
-166-25 powells cove blvd,1
-stockholm st,1
-walton ave,1
-243071st st,1
-farrell ct,1
-13262nd st,1
-mayfair dr s,1
-12563rd st,1
-2374th st,1
-23570th st,1
-371st st,1
-e 228th st & paulding ave,1
-71-66 parsons blvd,1
-413145th st,1
-lexington ave apt,1
-22536th st,1
-102-17 64th rd,1
-41552nd st,1
-30055th st,1
-e houston st,1
-22557th st,1
-51-13 103rd st,1
-20721st st,1
-109-9 15th ave,1
-57-7 246th crescent,1
-89th st ,1
-318100th st,1
-21-08 21st rd,1
-56-11 van cleef st,1
-84646th st,1
-bleecker st apt,1
-996th st,1
-riverside dr apt,1
-20027th st apt,1
-18073rd st,1
-282a nassau ave,1
-30-31 hobart st,1
-132- sanford ave,1
-bond st,1
-20568th st,1
-89-20 55th ave apt,1
-pearsall ave,1
-5th ave ph,1
-154105th st,1
-commonwealth ave,1
-16163rd st,1
-191-43 foothill ave,1
-watkins st,1
-99-35 59th ave,1
-52nd st,1
-438141st st,1
-2985th st ,1
-stickney pl,1
-170th st apt,1
-16696th st apt,1
-83rd ave,1
-114-3 inwood st,1
-12061st st,1
-41650th st,1
-22-36 92nd st,1
-eagle st,1
-14081st st,1
- east end ave,1
-75th st apt,1
-east ave,1
-murdock ave,1
-96642nd st,1
-42579th st,1
-137257th st,1
-38-15 149th st,1
-seth ct  b,1
-5135th st,1
-61-88 dry harbor rd,1
-1288th st apartment,1
-white st,1
-mother gaston blvd,1
-12596th st,1
-213513th st,1
-267th st fl,1
-22525th st,1
-103-12 114th st,1
-64-13 79th st,1
-87-37 90th st,1
-116-42 204th st,1
-40058th st,1
-263519th st,1
-42-39 judge st,1
-102-33 46th ave,1
-77-35 113th st,1
-70-25 yellowstone blvd,1
-26171st st apt,1
-24131st st ,1
-42-55 colden st,1
-102nd st apt,1
-17370th st,1
-hatting pl,1
-little neck pkwy apt,1
-87-70 173rd st,1
-870181st st apt,1
-35-21 81st st,1
-crosby st,1
-1973rd st,1
-33-64 21st st,1
-740242nd st,1
-10875th st apartment,1
-31125th st,1
-torrice lp,1
-2622nd st,1
-158100th st,1
-tulfan terrace,1
-40362nd st,1
-atkins ave,1
-134-16 35th ave,1
-14418th st,1
-5364th st,1
-4788th st,1
-73-28 173rd st,1
-findlay ave,1
-11883rd st,1
-75-38 263rd st,1
-980a gates ave,1
- 6513th st ph,1
-tiemann ave,1
-211-35 23rd ave,1
-park ave fl,1
-29425th st,1
-118-66 metropolitan ave,1
-216317th st,1
-97140th st,1
-112-30 38th ave,1
-60-29 marathon pkwy,1
-375123rd st,1
-42-42 colden st,1
-145129th st,1
-stillwell ave,1
-2455th st,1
-edgar terrace,1
-vermont ct,1
-mercer st fl,1
-south end ave,1
-chrystie st,1
-16890th st,1
-oliver st,1
-34514th st,1
-276415th st,1
-ryer ave,1
-121-16 keel ct,1
-grace ct apt,1
-143-35 22nd rd,1
-11785th st,1
-42-22 82nd st,1
-33330th st,1
-bristow st,1
-12386th st,1
-monroe ave,1
-clyde st,1
-141-16 25th rd,1
-300145th st,1
-47-19 99th st,1
-201156th st ,1
-5086th st,1
- park ave,1
-377th st,1
-east 16th street,1
-173-22 effington ave,1
-53-70 64th st,1
-11-18 bay 24th st,1
-466th st fl,1
-68th st,1
-221-24 manor rd,1
- central park w,1
-87-46 chelsea st,1
-68-63 108th st,1
-avenue x,1
-271928th st,1
-milburn st,1
-1593rd st,1
-69-45 108th st,1
-31570th st,1
-102-57 62nd dr,1
-33094th st,1
-47-08 248th st,1
-washington st fl,1
-609th st apt,1
-vyse ave,1
-42051st st,1
 butler blvd,1
-larkin st,1
-20-03 49th st,1
-53-29 72nd pl,1
-29305th st,1
-1622nd st b,1
-10-45 115th st,1
-105-47 88th st,1
-irving ave,1
+rockaway ave,1
+121136th st,1
+12380th st,1
+brook ave,1
+dikeman st,1
 norfolk st,1
 st johns ave,1
-57-19 64th st,1
+remington st,1
+winant pl,1
+murdock ave,1
+marathon pkwy,1
+bay 16th st,1
+185512th st,1
+340234th st,1
 38th ave apt,1
-110-02 203rd st,1
-61-25 97th st,1
- 2965th st,1
-132-36 pople ave,1
-120-35 144th st,1
-barclay st,1
-196- 67th ave,1
-456167th st,1
-86-16 60th ave,1
-90-10 34th ave,1
-42138th st apt,1
-63252nd st,1
-33-52 crescent st,1
+24929th st,1
+31570th st,1
+375123rd st,1
+30152nd st,1
+30157th st,1
+neal dow ave,1
+irving ave,1
+mac donough pl,1
+abbey ct,1
+57528th st,1
+11071st st,1
+larkin st,1
+macdougal st,1
+henry hudson pkwy w,1
+montague st,1
+72nd pl,1
+mountainview ave,1
+mcguinness blvd,1
+west st apt,1
+hewitt ave,1
+frederick douglass blvd c,1
+leonard ave,1
+123510th st,1
+96642nd st,1
+aviston st,1
+1622nd st b,1
+29305th st,1
+479th st,1
+21323rd st,1
+22nd rd,1
+201156th st ,1
+34514th st,1
+300145th st,1
+276415th st,1
+ryer ave,1
+keel ct,1
+doone ct,1
+grace ct apt,1
+rome ave,1
+76237th st,1
+11785th st,1
+ park ave,1
+33330th st,1
+n 3rd st apt,1
+148th dr,1
+804180th st apt,1
+denker pl,1
+20th rd,1
+230766th st,1
+155th ave,1
+371120th st,1
+50112th st,1
+5086th st,1
+377th st,1
+5371st st,1
+avenue x,1
+edgar terrace,1
+stillwell ave,1
+12386th st,1
+145129th st,1
+monroe ave,1
+vermont ct,1
+mercer st fl,1
+milburn st,1
+wiman ave,1
+271928th st,1
+chelsea st,1
+east 16th street,1
+ central park w,1
+south end ave,1
+fairview ave,1
+466th st fl,1
+chrystie st,1
+bay 24th st,1
+16890th st,1
+oliver st,1
+11157th st,1
+effington ave,1
+bristow st,1
+ 139th st,1
+wetherole st apt,1
+50083rd st,1
+1168th st,1
+20357th st,1
+craft ave,1
 willoughby ave apartment,1
-56-09 van cleef st,1
+hicks st apt,1
+35631st st,1
+79th ave,1
+troutman st,1
 bay 7th st,1
+ centre st,1
+435117th st apt,1
+onderdonk ave,1
+richmond ave,1
 71st ave ,1
+2455th st,1
+109th st apt,1
+16252nd st,1
+ambassador ln,1
+sackett st apt,1
 89438th st,1
 181324th st,1
-30-33 93rd st,1
-1563rd st.,1
-marisa ct,1
-42550th st,1
-155- 86th st,1
-234148th st,1
-84197th st,1
-44-12 65th st,1
-conover st,1
-orchard st ph b,1
-70139th st,1
-leonard st apartment,1
-52727th st,1
-16663rd st,1
-ada dr,1
-fdr dr,1
-30th ave.,1
-202-08 100th ave,1
-newbold ave,1
-99-30 59th ave,1
-cedar st,1
-133195th st,1
-99-60 63rd rd,1
-44452nd st,1
-avery ave,1
-142-25 37th ave,1
-3076th st,1
-120-47 sunrise ct,1
-63542nd st,1
-fiske pl,1
-147-37 230th st,1
-23522nd st apt,1
-discala ln,1
-6513th st apartment,1
-155-01 90th ave,1
-pelham pkwy n apt,1
-143-43 41st ave,1
-164654th st,1
-86-17 105th st,1
-2765th st,1
-40056th st,1
-appleby ave,1
-41-33 68th st,1
-15671st st,1
-196-11 100th ave,1
-158-11 96th st,1
-haven ave apt,1
-32-05 linden pl,1
-76-26 113th st,1
-sunnyside terrace,1
-11490th st,1
-626136th st,1
-greenway ave,1
-10-41 115th st,1
-66-43 alderton st,1
-avenue o,1
-bainbridge ave,1
-monroe st,1
-265218th st,1
-43rd st apt,1
-30018th st,1
-160105th st,1
-80017th st,1
-south end ave apt,1
-44-11 192nd st,1
-94146th st,1
-lorrain ave,1
-11757th st apt,1
-princeton ln,1
-36520th st apt,1
-lefferts pl apt,1
-22-08 greene ave,1
-112-18 38th ave,1
-167th st ,1
-76-13 ditmars blvd,1
-1553rd st,1
-purdy pl,1
-18475th st,1
-29-26 211th st,1
-757169th st,1
-12826th st fl,1
-beach 116th st,1
-40059th st,1
-199th st,1
-439116th st,1
-93532nd st,1
- 2064th st,1
-67th st,1
-34072nd st,1
-gleason ave,1
-250-38 39th rd,1
-5278th st,1
-hill ave,1
-33-55 14th st,1
-99163rd st,1
-153-41 sapphire st,1
-28th ave,1
-tilden st,1
-barker ave  d,1
-204-18 46th ave,1
-29325th st,1
-151106th st,1
-46-36 206th st,1
+24771st st,1
+venus ln,1
+ 2810th st,1
+25257th st,1
+goller pl,1
+2885195th st,1
+albany st,1
+42120th st,1
+21720th st,1
+1593rd st,1
+waldron ave,1
+504111th st apt,1
+33518th st,1
+31456th st,1
+clyde st,1
+mulford ave,1
+63252nd st,1
+ 2965th st,1
+25082nd st,1
+grafton st,1
+4580th st,1
+barclay st,1
+456167th st,1
+15953rd st,1
+21411th st,1
+42138th st apt,1
+25021st st,1
+kathy pl,1
+brooklyn ave apt,1
+satterlee st,1
+45851st st,1
+11413th st,1
+1181st st,1
+21796th st,1
+edgewood rd,1
+2175th st apt,1
+elmwood ave,1
+rathbun ave,1
+2777th st apt,1
+dalemere rd,1
+somers st ,1
+dexter ave,1
+46557th st,1
+15778th st,1
+12819th st,1
+209118th st,1
+elmira ave,1
+3276th st apt,1
+vernon ave,1
+128138th st,1
+36th st,1
+gay st,1
+3511th st,1
+mermaid ln,1
+quentin rd,1
+32441st st,1
+hicks st,1
+257th st,1
+ rector pl,1
+n 9th st,1
+beach 24th st,1
+234138th st,1
+cranford ave,1
+858223rd st,1
+rogers ave,1
+19072nd st,1
+13780th st,1
+5010th st,1
+ocean pkwy ste,1
+mapleton ave,1
+goethals ave,1
+954th st,1
+74th ave,1
+31679th st apt,1
+ohm ave,1
+25189th st,1
+51106th st,1
+research ave,1
+211252nd st,1
+1710th st,1
+11136th st,1
+541st st,1
+waldron st,1
+patterson ave,1
+plimpton ave,1
+1848th st,1
+172013th st,1
+51748th st apartment,1
+poplar ave,1
+210th st,1
+549149th st,1
+dewey ave,1
+copperleaf terrace,1
+171st st,1
+mayfair dr n,1
+736186th st,1
+30085th st apt,1
+33rd ave,1
+defoe st,1
+sanford ave ,1
+beaver st,1
+center blvd,1
+port richmond ave,1
+24658th st,1
+beverley rd,1
+hegeman ave,1
+mackenzie st,1
+855223rd st,1
+remsen st apt,1
+bogota st,1
+oxford st,1
+prescott ave,1
+astoria blvd n,1
+baltic st,1
+van nostrand ct,1
+20798th st,1
+victor st,1
+103rd ave,1
+42658th st ph,1
+saultell ave,1
+union tpke apt,1
+wickham ave,1
+clifton ave,1
+5997th st,1
+2773rd st,1
+manor ave,1
+,1
+teri ct,1
+shore dr,1
+27th ave,1
+hamilton terrace,1
+13038th st,1
+64th ave apt,1
+broadway ph,1
+nautilus st,1
+crescent st apt,1
+albemarle rd,1
+princewood ave,1
+gordon st,1
+clifton pl,1
+russell st,1
+dahill rd,1
+9th st,1
+6196th st,1
+warren st b,1
+1481st st,1
+ 21596th st,1
+22889th st,1
+669237th st,1
+503182nd st,1
+244th st,1
+coster st,1
+45017th st apt,1
+22411th st apt,1
+11614th st fl,1
+lispenard st,1
+miles ave,1
+fillmore st,1
+32722nd st,1
+51572nd st,1
+622114th st,1
+4574th st,1
+421154th st,1
+41024th st,1
+davenport ct,1
+edinboro rd,1
+calhoun ave,1
+utopia pkwy,1
+52984th st,1
+51st st,1
+locust ct,1
+177th st,1
+45th st apt,1
+lincoln rd,1
+garfield pl,1
+brookhaven ave,1
+32896th st,1
+1192nd st apt,1
+147th rd,1
+keen ct,1
+brighton 1st st,1
+daleham st,1
+163rd st,1
+205th st ,1
+n henry st fl,1
+13391st st,1
+2367th st,1
+neutral ave,1
+barclay ave apt,1
+northern blvd ,1
+1622nd st,1
+14231st st,1
+ct,1
+morris ave,1
+darnell ln,1
+4062nd st,1
+washington park,1
+park hill cir,1
+127270th st,1
+edgerton blvd,1
+54049th st ph,1
+100121st st,1
+501136th st,1
+20510th st,1
+21575th st,1
+knickerbocker ave,1
+15051st st apt,1
+53126th st,1
+armstrong ave,1
+s oak dr,1
+60557th st,1
+212026th st,1
+21284th st,1
+669th st,1
+4th pl,1
+bay club dr apartment,1
+12969th st,1
+149th st,1
+224th st,1
+333119th st,1
+miller ave,1
+wright st,1
+richmond ct,1
+howton ave,1
+1281223rd st,1
+bay 19th st,1
+57929th st,1
+waverly ave,1
+119th st,1
+35042nd st,1
+75th rd,1
+conklin ave,1
+soundview ave,1
+15772nd st,1
+plumb 1st st apt,1
+517142nd st,1
+bryant ave,1
+peacock loop,1
+12388th st,1
+grand central pkwy apt,1
+secor ave,1
+mt hope pl,1
+65th dr,1
+729182nd st,1
+marion ave,1
+amity st,1
+ shore rd,1
+17157th st,1
+26th st,1
+pulaski st,1
+32182nd st apt,1
+royce pl,1
+fresh pond rd,1
+68th dr,1
+124987th st,1
+butler st,1
+center dr,1
+oakville st,1
+647th st,1
+ 600111th st,1
+85737th st,1
+willow st,1
+bay 50th st,1
+93rd rd,1
+maple terrace,1
+5266th st,1
+indale ave,1
+171429th st,1
+ditmas ave apt,1
+stuyvesant ave,1
+7755th st,1
+vanderbilt st,1
+106052nd st,1
+langston ave,1
+127551st st,1
+warren st,1
+32353rd st,1
+65th ave,1
+10167th st ph,1
+alton pl,1
+duncan st,1
+bragg st,1
+137257th st,1
+benjamin dr,1
+seth ct  b,1
+bathgate ave,1
+3061st st,1
+24225th st,1
+dalton ave,1
+3826th st apt,1
+new york ave apartment,1
+687232nd st,1
+gravett rd,1
+kelvin ave,1
+23079th st,1
+157126th st,1
+20757th st,1
+40466th st,1
+1640th st,1
+daniel low terrace,1
+xenia st,1
+22574th st,1
+liberty ave,1
+3222nd st,1
+audubon ave,1
+2985th st apt,1
+beach 121st st,1
+blake ave,1
+livingston st,1
+31st st,1
+nassau st,1
+29912th st,1
+eunice pl,1
+33357th st ,1
+1218th st,1
+1136th st ste,1
+90th rd,1
+17076th st,1
+37th st,1
+kiswick st,1
+tiebout ave,1
+34472nd st,1
+726134th st,1
+28111th st,1
+34656th st,1
+75th pl,1
+east 100th street,1
+6055th st,1
+broad st fl,1
+vanderbilt ave apartment,1
+brewster st,1
+3172nd st,1
+jewel ave,1
+ 883rd st,1
+20062nd st,1
+dekoven ct,1
+73989th st,1
+archer rd,1
+564th st,1
+ saunders st,1
+20128th st,1
+st marks pl apt,1
+14th rd,1
+humphreys st,1
+175014th st,1
+4103rd st,1
+tyrrell st,1
+104529th st,1
+883rd st ,1
+beacon ave,1
+windsor pl,1
+70th rd ,1
+265418th st,1
+ morrison ave,1
+ snyder ave apt,1
+van name ave,1
+548th st,1
+31183rd st,1
+40274th st,1
+lansing st,1
+baltic ave,1
+sackett st,1
+50780th st,1
+thomson ave unit,1
+300135th st,1
+hoyt st,1
+main st apt,1
+euclid ave,1
+ct squareph,1
+124048th st,1
+fort independence st,1
+89th ave apt,1
+s 4th st apartment,1
+clove way,1
+219115th st,1
+union ave ph,1
+67th rd,1
+doane ave,1
+leonard st,1
+140098th st,1
+639th st,1
+mcbride st,1
+heusden st,1
+beach 98th st,1
+5978th st,1
+17081st st,1
+lafayette st apt,1
+1066th st,1
+lorimer st,1
+155th ave ,1
+stonegate dr,1
+149595th st,1
+sheridan square,1
+13554th st,1
+lenox rd,1
+avenue p apartment,1
+30586th st,1
+16066th st,1
+constitution pl,1
+30153rd st,1
+20058th st,1
+151st ave apt,1
+harman st,1
+49149345th st,1
+lenox rd apt,1
+tabor ct,1
+31754th st,1
+3367th st,1
+ 67th dr,1
+ocean view ave apt,1
+5th ave suite,1
+shakespeare ave,1
+paulding ave,1
+25195th st,1
+40174th st apartment,1
+160th st,1
+2322nd st,1
+3rd ave apt,1
+32379th st,1
+bay 29th st,1
+31523rd st,1
+richardson ave,1
+18875th st,1
+creston ave,1
+pierce ave,1
+259th st,1
+monticello ave,1
+919224th st,1
+n 11th st,1
+crotona ave,1
+17374th st,1
+176913th st,1
+35th ave c,1
+beverly rd apt,1
+s portland ave unit,1
+gold st,1
+56th ave apt,1
+59584th st,1
+114789th st,1
+carlisle pl,1
+1313th st,1
+22546th st,1
+clarence ave,1
+33487th st apartment,1
+21580th st,1
+24215th st apt,1
+22280th st,1
+282515th st,1
+adam clayton powell jr blvd apartment,1
+40th st,1
+34253rd st,1
+lafayette st rm,1
+127112th st,1
+85th ave,1
+beach 129th st,1
+n 8th st,1
+stafford ave,1
+adler pl,1
+sleepy hollow rd,1
+little neck pkwy,1
+24572nd st,1
+10th st,1
+191st st,1
+32971st st apt,1
+65th rd,1
+austin st apt,1
+kenmore ct,1
+suffolk st,1
+corbin ave,1
+11587th st,1
+river terrace,1
+723211th st,1
+gramercy pk s,1
+westbrook ave,1
+23470th st apt,1
+catalpa ave,1
+96040th st,1
+103rd st,1
+64th rd,1
+30055th st,1
+18073rd st,1
+20027th st apt,1
+riverside dr apt,1
+996th st,1
+bleecker st apt,1
+84646th st,1
+21st rd,1
+318100th st,1
+89th st ,1
+246th crescent,1
+20721st st,1
+22557th st,1
+22536th st,1
+e houston st,1
+41552nd st,1
+5416th st,1
+44475th st,1
+4916th st,1
+matilda ave,1
+210103rd st,1
+30040th st apt,1
+ash ave,1
+84th st apt,1
+watson ave,1
+17092nd st,1
+eastchester rd,1
+40th ave,1
+colfax ave apt,1
+22060th st,1
+lexington ave apt,1
+43356th st,1
+22214th st,1
+18088th st apt,1
+keap st,1
+3255th st,1
+hudson st apt,1
+1584th st,1
+borden ave,1
+34064th st,1
+taaffe pl,1
+kissena blvd apt,1
+tony ct,1
+vernon blvd,1
+413145th st,1
+20577th st,1
+e 228th st & paulding ave,1
+371st st,1
+23570th st,1
+2374th st,1
+12563rd st,1
+mayfair dr s,1
+13262nd st,1
+farrell ct,1
+243071st st,1
+walton ave,1
+stockholm st,1
+monsey pl,1
+42055th st,1
+prospect ave,1
+plymouth st,1
+5135th st,1
+17078th st,1
 333109th st,1
+206th st,1
+151106th st,1
+29325th st,1
+overlook terrace apt,1
+34th st,1
+36376th st,1
+fairfax ave,1
+1559th st,1
+114th dr,1
+123872nd st,1
+cove ct,1
+34080th st,1
+43557th st apt,1
+simon ct,1
+1863rd st apt,1
+1272nd st,1
+16th st,1
+15055th st,1
+3512th st,1
+18th st,1
+17216th st,1
+wyckoff ave,1
+greenway ave,1
+84197th st,1
+234148th st,1
+torrice lp,1
+31125th st,1
 15549th st,1
 42551st st,1
-900190th st,1
-stratford ave,1
-306mosholu pkwy s,1
-25030th st,1
-55th st,1
- central,1
-69-33 169th st,1
-42578th st,1
-13539th st,1
-218139th st,1
-washington pl,1
-10181st st,1
-33-11 73rd st,1
-overlook terrace apt,1
-25-74 34th st,1
-nelson st,1
-36376th st,1
-wyckoff ave,1
-17216th st,1
-138-51 63rd ave,1
-18th st,1
-3512th st,1
-15055th st,1
-16th st,1
-1272nd st,1
-1863rd st apt,1
-43557th st apt,1
-17078th st,1
-34080th st,1
-120-17 cove ct,1
-123872nd st,1
-21-55 34th ave,1
-188-28 114th dr,1
-1559th st,1
-fairfax ave,1
-32-13 112th st,1
-35062nd st,1
-30040th st,1
-32-50 53rd pl,1
-158-20 77th ave,1
-68127th st,1
-61-15 98th st,1
-79-09 153rd ave,1
-25022nd st,1
-68th st apt,1
-commodore dr,1
-20180th st,1
-11629th st,1
-53651st st,1
-149-43 35th ave,1
-bartlett ave,1
-13-73 beach channel dr,1
-ludlow st,1
-52nd st apartment,1
-northside piers,1
-4482nd st,1
-12424th st,1
-bell ave,1
-55522nd st,1
- 36088th st ph,1
-duane st,1
-37-26 87th st,1
-wexford terrace apt,1
-91-09 95th st,1
-63rd dr apt,1
-22073rd st,1
-nasby pl,1
-13435th st,1
-158-18 riverside,1
-865th st,1
-44484th st,1
-34581st st,1
-16472nd st,1
-224-20 145th rd,1
-broad st,1
-wyona st,1
+740242nd st,1
+77th ave,1
 362127th st,1
-133-22 centerville st,1
-83-55 lefferts blvd,1
-41454th st,1
+wyona st,1
+broad st,1
+145th rd,1
+34581st st,1
+wexford terrace apt,1
+44484th st,1
+865th st,1
+riverside,1
+13435th st,1
+nasby pl,1
+22073rd st,1
+63rd dr apt,1
+53rd pl,1
+berry st,1
+30040th st,1
+35062nd st,1
+10181st st,1
+hinsdale st,1
+washington pl,1
+kissena blvd,1
+218139th st,1
+13539th st,1
+42578th st,1
+ central,1
+25030th st,1
+stratford ave,1
+900190th st,1
+10875th st apartment,1
+21st st,1
 pitman ave,1
-191-20 113th rd,1
-s 2nd st,1
-661228th st,1
-344121st st,1
-18674th st,1
-111raleigh ave,1
-69-55 kessel st,1
-32-27 92nd st,1
-25th ave,1
-throop ave,1
-82nd rd apt,1
-164- willets point blvd,1
-151-23 12th rd,1
-162-15 14th ave,1
-112673rd st,1
-28-39 213th st,1
-74th st,1
-nashville blvd,1
-b 31st st,1
-76-22 57th rd,1
-bronx blvd,1
-312f beach 101st st,1
-114-48 148th st,1
-marine pkwy,1
-129102nd st,1
-ave y,1
-16371st st,1
-335209th st apt,1
-loisaida ave,1
-bay pkwy,1
-109-42 centreville st,1
-mayflower ave,1
-norton dr,1
-lovelace ave,1
-elton ave,1
-62-72 wetherole st,1
-rockaway st,1
-hendrickson st,1
-263139th st,1
-independence ave apt,1
-150-08 grand central pkwy,1
-220-45 138th ave,1
-115-11 126th st,1
-ilyssa way,1
-havemeyer ave,1
-avenue y,1
-237417th st,1
-tier st,1
-33585th st,1
-141-03 15th ave,1
-46-2 190th st,1
-24518th st,1
-162-31 91st st,1
-lynn st,1
-24010a oak park dr ,1
-21-48 35th st,1
-142-18 38th ave,1
-87-01 commonwealth blvd,1
-642207th st,1
-42084th st,1
-rector pl,1
-wilcox ave,1
-copley st,1
-65-50 wetherole st,1
-cedar ave,1
-100-05 69th ave,1
-135-20 lefferts blvd,1
-88-04 69th rd,1
-van sicklen st,1
-76-18 251st st,1
-30555th st,1
-57-5 main st,1
-236213th st,1
-gillespie ave,1
-highland pl,1
-minna st,1
-47th ave apt,1
-144-46 boulevard,1
-garden pl,1
-bunnell ct,1
-2887th st,1
-69th st ,1
-257-03 80th ave,1
-53rd ave apt,1
-48138th st,1
-rene dr,1
-149-30 88th st,1
+154105th st,1
+jordan st,1
+41650th st,1
+12061st st,1
+83rd ave,1
+16696th st apt,1
+170th st apt,1
+stickney pl,1
+2985th st ,1
+438141st st,1
+watkins st,1
+foothill ave,1
+16163rd st,1
+commonwealth ave,1
+5th ave ph,1
+eagle st,1
+14081st st,1
+pearsall ave,1
+ east end ave,1
+east ave,1
+114th st,1
+22525th st,1
+267th st fl,1
+213513th st,1
+12596th st,1
+mother gaston blvd,1
+white st,1
+1288th st apartment,1
+dry harbor rd,1
+30054th st,1
+40058th st,1
+1973rd st,1
+prince st apt,1
+crosby st,1
+870181st st apt,1
+little neck pkwy apt,1
+hatting pl,1
+17370th st,1
+102nd st apt,1
+24131st st ,1
+26171st st apt,1
+2622nd st,1
+158100th st,1
+40362nd st,1
+97140th st,1
+216317th st,1
+29425th st,1
+brighton 14th st,1
+park ave fl,1
+tiemann ave,1
+ 6513th st ph,1
+263rd st,1
+11883rd st,1
+findlay ave,1
+4788th st,1
+5364th st,1
+14418th st,1
+atkins ave,1
+tulfan terrace,1
+263519th st,1
+75th st apt,1
+41454th st,1
+16472nd st,1
+40174th st,1
+43rd st apt,1
+20568th st,1
+55th ave apt,1
+lefferts pl apt,1
+36520th st apt,1
+princeton ln,1
+11757th st apt,1
+lorrain ave,1
+94146th st,1
+192nd st,1
+south end ave apt,1
+80017th st,1
+160105th st,1
+30018th st,1
+265218th st,1
+alden park,1
+monroe st,1
+bainbridge ave,1
+avenue o,1
+167th st ,1
+purdy pl,1
+sapphire st,1
+99163rd st,1
+hill ave,1
+5278th st,1
+39th rd,1
+gleason ave,1
+34072nd st,1
+67th st,1
+bond st,1
+sheridan ave,1
+loretto st,1
+51579th st,1
+ 61st st,1
+fairmount pl,1
+warren st fl,1
+32514th st,1
+zoe st,1
+55th ave,1
+16470th st,1
+beach 22nd st,1
+307162nd st,1
+1561st st,1
+246129th st,1
+13026th st apt,1
+12970th st apt,1
+15061st st,1
+mcveigh ave,1
+50127th st,1
+brighton 4th walk,1
+purves st,1
+throgs neck expy,1
+anthony ave,1
+20554th st,1
+33038th st apt,1
+alter ave,1
+2218th st,1
+667246th st,1
+st ann's ave,1
+ocean ave apt,1
+17157th st apt,1
+ 2064th st,1
+93532nd st,1
+duane st,1
+bell ave,1
+40056th st,1
+2765th st,1
+105th st,1
+164654th st,1
+pelham pkwy n apt,1
+90th ave,1
+6513th st apartment,1
+discala ln,1
+23522nd st apt,1
+tilden st,1
+barker ave  d,1
+nelson st,1
+55522nd st,1
+12424th st,1
+appleby ave,1
+4482nd st,1
+northside piers,1
+52nd st apartment,1
+ludlow st,1
+bartlett ave,1
+53651st st,1
+11629th st,1
+20180th st,1
+commodore dr,1
+68th st apt,1
+25022nd st,1
+68127th st,1
+ 36088th st ph,1
+lynn ct,1
+15671st st,1
+439116th st,1
+cedar st,1
+40059th st,1
+beach 116th st,1
+12826th st fl,1
+757169th st,1
+18475th st,1
+1553rd st,1
+626136th st,1
+fiske pl,1
+11490th st,1
+3076th st,1
+avery ave,1
+44452nd st,1
+133195th st,1
+newbold ave,1
+haven ave apt,1
+fdr dr,1
+ada dr,1
+16663rd st,1
+52727th st,1
+leonard st apartment,1
+70139th st,1
+orchard st ph b,1
+conover st,1
+sunrise ct,1
+63542nd st,1
+230th st,1
+sunnyside terrace,1
+linden pl,1
+15682nd st,1
+15th st,1
+713239th st,1
+25590th st,1
+82nd pl,1
+ 35th ave,1
+640231st st,1
+1572nd st,1
+greentree ln,1
+31577th st,1
+tenbroeck ave,1
+617227th st,1
+nome ave,1
+12838th st,1
+arden ave,1
+bement ave,1
+45th rd,1
+82nd ave ,1
+16780th st,1
+11119th st,1
+21721st st,1
+hett ave,1
+narragansett ave,1
+laurel ave,1
+24029th st,1
+ 25574th st,1
+23978th st,1
+72nd ave,1
+brookside lp,1
+172051st st,1
+88th rd,1
+42284th st,1
+rolling hill green,1
+clay pit rd,1
+130th st,1
+48th ave ph,1
+205238th st,1
+33420th st,1
+frost st,1
+carroll st apartment,1
+linwood st,1
+point breeze ave,1
+neilson st,1
+jamie ln,1
+archwood ave,1
+15594th st,1
+mercer st apt,1
+175551st st,1
+456134th st,1
+121072nd st,1
+ocean terrace,1
+norwood ave,1
+281817th st,1
+60th ave apt,1
+2513th st,1
+72918th st,1
+jansen st,1
+125th rd,1
+ocean prom,1
+anaconda st,1
+locust point dr,1
+endeavor pl,1
+20931st st,1
+bradley ave,1
+benedict ave,1
+castleton ave,1
+oak ave,1
+cambreleng ave,1
+328108th st,1
+62nd st,1
+22981st st,1
+katan ave,1
+sutton square,1
+bonnie ln,1
+bay 46th st,1
+flagship cir,1
+clinton ave,1
+forest hill rd,1
+legion st,1
+52181st st,1
+130956th st,1
+36138th st,1
+colon ave,1
 17074th st apt,1
-25252nd st,1
-androvette ave,1
-palisade ave apt,1
-25-01 23rd ave,1
-orange st,1
+portland pl,1
+116th ave,1
+17562nd st,1
+bard ave,1
+154th st,1
+jeanette ave,1
+594152nd st,1
+127856th st,1
+melissa ct,1
+kosciuszko st,1
+schofield st,1
+knapp st,1
+15924th st,1
+granger st,1
+baltic st ,1
+322104th st,1
+ellis st,1
+darlington ave,1
+needham ave,1
+224766th st,1
+13519th st,1
+223rd st,1
+tarring st,1
+260124th st,1
+205th pl,1
+313118th st,1
+1064th st,1
+mt olivet crescent apt,1
+commerce st ,1
+77th rd,1
+788th st,1
+metropolitan oval,1
+205173rd st,1
+13281st st,1
+arthur kill rd,1
+233112th st,1
+herschell st,1
+linden st,1
+goff ave,1
+snediker ave,1
+knollwood ave,1
+brighton ct,1
+s 2nd st apartment,1
+highland blvd,1
+1st st,1
+145515th st,1
+100119th st,1
+31881st st,1
+olmstead ave,1
+norwood ct,1
+12087th st,1
+cambridge pl,1
+3826th st,1
+durland pl,1
+11272nd st ph c,1
+baden pl,1
+medina st,1
+21717th st,1
+nansen st,1
+o'gorman ave,1
+camden ave,1
+204738th st,1
+210th pl,1
+rossville ave,1
+250665th st,1
+132214th st,1
+seton ave,1
+208th pl,1
+undercliff ave,1
+12935th st,1
+olcott st,1
+escanaba ave,1
+overlook ave,1
+133rd ave,1
+shore front pkwy ,1
+24055th st,1
+131996th st,1
+zerega ave,1
+jamie ct,1
+wainwright ave,1
+55834th st,1
+44056th st,1
+morningstar rd,1
+water st ste c,1
+south ave,1
+ 77th st,1
+83rd pl,1
+332101st st,1
+bronxwood ave,1
+42514th st,1
+austin pl,1
+excelsior ave,1
+43132nd st,1
+76th st,1
+40077th st,1
+55190th st apt,1
+cunard ave,1
+242235th st,1
+38518th st,1
+42051st st apartment,1
+olympia blvd,1
+20117th st,1
+vera st,1
+kane st,1
+225th st,1
+2366th st,1
+rensselaer ave,1
+forest ave,1
+132nd ave,1
+mc arthur ave,1
+29445th st,1
+bascom pl,1
+12019th st,1
+beach 120th st,1
+greene st apt,1
+901106th st,1
+7th st,1
+harbor rd,1
+wellington ct,1
+ henry hudson pkwy,1
+poplar st,1
+clearview expy,1
+coleman st,1
+riverside dr ,1
+greenwich st ph e,1
+168th st,1
+747217th st,1
+41023rd st,1
+dunham st,1
+s portland ave,1
+wall st,1
+oak dr,1
+51987th st d,1
+annfield ct,1
+delaware ave,1
+madeline ct,1
+flagg pl,1
+beach 109th st,1
+murray st ph,1
+172714th st,1
+61st ave,1
+guyon ave,1
+188353rd st,1
+murdock pl,1
+5195th st,1
+middlemay cir,1
+boone st,1
+bay 25th st,1
+van cortlandt park e,1
+194th st,1
+41987th st,1
+207274th st,1
+bowery,1
+radnor st,1
+41157th st,1
+664161st st,1
+katan loop,1
+pilot st,1
+13515th st,1
+160645th st,1
+107073rd st,1
+cayuga ave bsmt,1
+overing st,1
+260th st,1
+76th ave,1
+511144th st,1
+jay st,1
+cloverdale ave,1
+bennett ave apt,1
+231763rd st,1
+dutchess ave,1
+627236th st,1
+45th ave,1
+hawtree st,1
+copley st,1
+wilcox ave,1
+rector pl,1
+42084th st,1
+642207th st,1
+commonwealth blvd,1
+219144th st apt,1
+oak park dr ,1
+lynn st,1
+146223rd st,1
+222nd st,1
+24518th st,1
+198th st,1
+33585th st,1
+tier st,1
+cedar ave,1
+237417th st,1
+69th rd,1
+48138th st,1
+53rd ave apt,1
+st pauls ave,1
+greene pl,1
+69th st ,1
+mills ave,1
+12th ave,1
 514235th st,1
 2487th st,1
-45-33 zion st,1
-132-03 sanford ave,1
-111-45 120th st,1
-bay 8th st,1
-12-86 augustina ave,1
+corbin pl,1
+west 4th street,1
+pearsall st,1
+4530th st,1
+105th ave,1
+zion st,1
+dartmouth st apt,1
+beaumont ave,1
+25252nd st,1
+augustina ave,1
+elmwood park dr apt,1
+craig ave,1
 41057th st,1
 howard ave,1
+kearney ave,1
+20278th st,1
+12273rd st,1
 37th ave ,1
-131-16 115th ave,1
-149-47 26th ave,1
-34-51 74th street,1
-86-84 188th st,1
-76-66 174th st,1
-grandview terrace,1
-71-28 manse st,1
-861231st st,1
-mulberry ave,1
-102-26 213th st,1
-2035th st,1
-woodhaven blvd apt,1
-academy st,1
-new utrecht ave,1
-audley st,1
-41153rd st,1
-156-23 88th st,1
-860232nd st,1
-86th st ,1
-washington square w,1
-154-69 26th ave,1
-120-10 ketch ct,1
-205-05 jamaica ave,1
-28-05 216th st,1
-barker st,1
-36a rochester ave,1
-10th ave,1
-65-18 austin st,1
-92198th st,1
-124- rockaway beach blvd,1
-32-58 86th st,1
-151-35 84th st,1
-14-11 111th st,1
-525134th st,1
-42nd st,1
-chambers st apt,1
-64-04 71st st,1
-129th st,1
-58-31 71st st,1
-138-38 63rd ave,1
-144-28 72nd rd,1
-benjamin dr,1
-prospect park southwest apartment,1
-cliffwood ave,1
-69th ln apt,1
-13552nd st ph,1
-24-40 little neck blvd,1
+52147th st,1
+hubert st,1
+74th street,1
+101st st,1
+112557th st,1
+rochester ave,1
+80th ave,1
+2887th st,1
+court st apt,1
+marine pkwy,1
 204164th st,1
-st pauls ave,1
+ave y,1
+138th ave,1
+92198th st,1
+independence ave apt,1
+263139th st,1
+little neck blvd,1
+hendrickson st,1
+rockaway st,1
+elton ave,1
+111th st,1
+lovelace ave,1
+norton dr,1
+mayflower ave,1
+centreville st,1
+bay pkwy,1
+525134th st,1
+loisaida ave,1
+chambers st apt,1
+335209th st apt,1
+16371st st,1
+rene dr,1
+st 15th,1
+bay 8th st,1
+13552nd st ph,1
+69th ln apt,1
+cliffwood ave,1
+129102nd st,1
 4595th st,1
-dutchess ave,1
-196-11 45th ave,1
-hawtree st,1
-219144th st apt,1
-121-42 laurelton pkwy,1
-146223rd st,1
-145-90 222nd st,1
-116-33 198th st,1
+bunnell ct,1
+18674th st,1
 515135th st,1
-gates ave,1
-65-65 wetherole st,1
-64-01 pleasantview st,1
+garden pl,1
+47th ave apt,1
+minna st,1
+highland pl,1
+gillespie ave,1
+236213th st,1
+30555th st,1
+van sicklen st,1
+pleasantview st,1
+avenue y,1
+havemeyer ave,1
 17184th st,1
-163-43 90th st,1
+ilyssa way,1
+bronx blvd,1
 latimer ave,1
+57th rd,1
+b 31st st,1
+nashville blvd,1
 mickle ave,1
-linden blvd,1
-627236th st,1
-231763rd st,1
-bennett ave apt,1
-81922nd st,1
-grosvenor ave,1
-91-10 34th ave,1
-forest ln,1
-cyrus pl,1
-iselin ave,1
-2293rd st,1
-53076th st,1
-140-27 183rd st,1
-30377th st,1
-cloverdale ave,1
-112-30 northern blvd,1
-83-12 doran ave,1
-162-31 9th ave,1
-hicksville rd,1
-73-48 196th st,1
-25-23 120th st,1
+112673rd st,1
+12th rd,1
+344121st st,1
+willets point blvd,1
+82nd rd apt,1
+throop ave,1
+25th ave,1
+25373rd st,1
+43046th st,1
+orange st,1
+seaman ave,1
 bay club dr apt,1
-st stephens pl,1
+woodhaven blvd apt,1
+196th st,1
+hicksville rd,1
+doran ave,1
+academy st,1
+30377th st,1
+new utrecht ave,1
+81922nd st,1
+audley st,1
+183rd st,1
+53076th st,1
+2293rd st,1
+iselin ave,1
+cyrus pl,1
+forest ln,1
+41153rd st,1
+grosvenor ave,1
 campus rd,1
 cascade st,1
 russek dr,1
-corona ave,1
-26972nd st,1
-harbor view terrace,1
-1433105th st,1
-college pl,1
-106-09 169th st,1
-207-7 estates dr,1
-3530th st,1
-31836th st.,1
-mace st,1
-20-46 41st st,1
-22-15 whitestone expy,1
-25786th st,1
-40645th st,1
-fox st,1
-22-63 nameoke ave,1
-kings hwy apt,1
+860232nd st,1
 jefferson blvd,1
-seaman ave,1
+kings hwy apt,1
+nameoke ave,1
+fox st,1
+40645th st,1
+st stephens pl,1
 colgate ave,1
-1570th st,1
-15916th st,1
-ramona ave,1
-rochambeau ave,1
-76-73 173rd st,1
-s railroad st,1
-court st apt,1
-247-16 76th ave,1
-benedict ave,1
-71-27 260th st,1
-207-15 melissa ct,1
-127856th st,1
-594152nd st,1
-jeanette ave,1
-33-14 154th st,1
-bard ave,1
-84-26 87th st,1
-17562nd st,1
-194-08 116th ave,1
-201058th st ,1
-69-04 ditmars blvd,1
-wissman ave,1
-62-22 65th st,1
-33-44 93rd st,1
-carlton ave,1
-arbutus ave,1
-115-33 227th st,1
-kensington st,1
-a edgewater park,1
-woodrow rd,1
-buffalo st,1
-108-49 63rd ave,1
-eldridge ave,1
-brighton st,1
-73-38 199th st,1
-1324101st st,1
-30-07 143rd st,1
-lott ln,1
-sedgwick ave,1
-132- maple ave,1
-75-57 186th st,1
-85-05 eliot ave,1
-36-19 217th st,1
-beaumont ave,1
-146-13 105th ave,1
-50-39 61st st,1
-4530th st,1
-pearsall st,1
-83-20 98th st,1
-west 4th street,1
-corbin pl,1
-12th ave,1
-25373rd st,1
-43046th st,1
-106-10 217th st,1
 274128th st,1
-pinchot pl,1
-47-17 39th ave,1
-112122nd st,1
-nugent ave,1
-roff st,1
-dartmouth st apt,1
-elmwood park dr apt,1
-175014th st apt,1
-craig ave,1
-41st st,1
-32-50 204th st,1
-jay st,1
-greene pl,1
-mills ave,1
-172-31 highland ave,1
-112557th st,1
-85-30 101st st,1
-263-07 57th ave.,1
-hubert st,1
-52-37 84th st,1
-52147th st,1
-12273rd st,1
-20278th st,1
-kearney ave,1
-136-8 elder ave,1
-66-18 gray st,1
-ryder st,1
-kappock st apt,1
-99-07 70th ave,1
-203102nd st,1
-dover green,1
-sherman ave,1
-47-34 glenwood st,1
-114-31 120th st,1
-melbourne ave ,1
-24871st st,1
-northern blvd apt,1
-arlington pl,1
-tyndale st,1
-44-20 douglaston pkwy,1
-2-11 147th st,1
-62-14 80th st,1
-34-21 83rd st,1
-35730th st,1
-york ave,1
-12612th st,1
-138-10 franklin ave,1
-31-50 buell st,1
-104-30 219th st,1
-wadsworth rd,1
-2427th st,1
-gunther ave,1
-downing st,1
-263254th st,1
-150-32 sullivan dr,1
-21592nd st,1
-montell st,1
-reynolds st,1
-opal ct,1
-69-10 penelope ave,1
-155734th st,1
-haight ave,1
-43-2 orient ave,1
-amethyst st,1
-new york ave,1
-13985th st apartment,1
-129th st apt,1
-stone ln,1
-jewel ave ,1
-262197th st,1
+1570th st,1
+s railroad st,1
+rochambeau ave,1
+ramona ave,1
+201058th st ,1
+15916th st,1
+taft ave,1
+maple ave,1
+sedgwick ave,1
+lott ln,1
+1469th st,1
+118th st apt,1
+1324101st st,1
 526158th st,1
-holly st,1
-15682nd st,1
-giegerich pl,1
-21-89 47th st,1
-4570th st,1
-whitson st,1
-duffield st,1
-union st apartment,1
-kirshon ave,1
-148553rd st,1
-136892nd st,1
-30212th st apt,1
-poillon ave,1
-newman ave,1
-58-03 calloway st,1
-16664th st,1
-simmons ln,1
-212- 16th ave,1
-36022nd st,1
-wickham ave,1
-union tpke apt,1
-prescott ave,1
-24658th st,1
-beach 24th st,1
-115- 220th st,1
-dexter ave,1
-vernon ave,1
-gay st,1
-159-03 83rd st,1
- rector pl,1
-copperleaf terrace,1
-214-42 27th ave,1
-hamilton terrace,1
-princewood ave,1
-30-36 88th st,1
-396a 9th st,1
-45-12 244th st,1
-coster st,1
-33-02 parsons blvd,1
-190-16 33rd ave,1
-12335th st,1
-van nest ave,1
-savo loop,1
+brighton st,1
+eldridge ave,1
+262197th st,1
+buffalo st,1
+woodrow rd,1
+a edgewater park,1
+jewel ave ,1
+kensington st,1
+227th st,1
+arbutus ave,1
+carlton ave,1
+mulberry ave,1
+wissman ave,1
+2035th st,1
+86th st ,1
+25786th st,1
+whitestone expy,1
+mace st,1
+129th st apt,1
+13985th st apartment,1
+new york ave,1
+amethyst st,1
+orient ave,1
+haight ave,1
+155734th st,1
+penelope ave,1
+opal ct,1
+174th st,1
+reynolds st,1
+montell st,1
+21592nd st,1
+sullivan dr,1
+263254th st,1
+downing st,1
+gunther ave,1
+wadsworth rd,1
+kappock st apt,1
+175014th st apt,1
+androvette ave,1
+ryder st,1
+roff st,1
+nugent ave,1
+112122nd st,1
+palisade ave apt,1
+pinchot pl,1
+stone ln,1
+2427th st,1
+grandview terrace,1
+12612th st,1
+31836th st,1
+3530th st,1
+estates dr,1
+college pl,1
+washington square w,1
+1433105th st,1
+harbor view terrace,1
+26972nd st,1
+186th st,1
+70th ave,1
+ketch ct,1
+jamaica ave,1
+35730th st,1
+manse st,1
+147th st,1
+douglaston pkwy,1
+tyndale st,1
+arlington pl,1
+northern blvd apt,1
+24871st st,1
+melbourne ave ,1
+barker st,1
+sherman ave,1
+dover green,1
+861231st st,1
+203102nd st,1
+37th rd,1
+214th pl,1
+lawton ave,1
+mercer st,1
+5th st,1
+powell st,1
+garfield ave,1
+n henry st,1
+liberty st ph,1
+hutchinson riv pkwy,1
+falmouth st,1
+45757th st,1
+43034th st,1
+20170th st,1
+willow,1
+64th ave,1
+15697th st,1
+250103rd st,1
+ 2322nd st,1
+lyman pl,1
+ 98th pl,1
+504135th st,1
+272107th st,1
+20516th st,1
+lefferts pl,1
+28812th st,1
+5072nd st,1
+15349th st,1
+3rd ave ph b,1
+52nd st apt,1
+dean ave,1
+948217th st,1
+44457th st,1
+beaver st apt,1
+32552nd st,1
+765224th st,1
+28734th st,1
+233015th st,1
+boller ave,1
+woodbine st,1
+42563rd st,1
+bedford ave apt,1
+fort washington ave apt,1
+20074th st,1
+horace harding expy,1
+78th ave,1
+boynton ave,1
+sullivan pl,1
+23979th st,1
+20089th st apt,1
+545111th st,1
+165719th st,1
+769th st,1
+23573rd st,1
+dupont st,1
+18093rd st,1
+roanoke st,1
+46846th st,1
+clay ave,1
+40th rd,1
+150105th st,1
+17th rd,1
+poi ct,1
+flagg ct,1
+van brunt st,1
+12132nd st,1
+1279th st,1
+93987th st,1
+30333rd st,1
+21573rd st,1
+52251st st,1
+12107th st,1
+3322nd st,1
+mann ave,1
+brighton 2nd pl,1
+15263rd st,1
+64th ln,1
+beach 117th st,1
+wallace ave,1
+ebbitts st,1
+laconia ave,1
+ada dr ,1
+104th ave,1
+tiffany pl,1
+richmond st,1
+22380th st apt,1
+112451st st,1
+33rd st apt,1
+aquatic pl,1
+96208th st,1
+beadel st,1
+78th st apt,1
+clinton b fiske ave,1
+dover st,1
+717221st st,1
+story ave ,1
+beach 37th st,1
+imlay st,1
+153422nd st,1
+12755th st,1
+32143rd st apt,1
+213120th st,1
+taylor ave,1
+77th st apt,1
 24746th st apt,1
+macon st,1
+junius st,1
+benham st,1
+johnston terrace,1
 13th st,1
 59th st,1
+crown ave,1
 bay 11th st,1
 30996th st,1
 46079th st,1
 18864th st apt,1
 253524th st,1
+prospect park southwest apt,1
+525150th st,1
+22914th st,1
+18088th st,1
+38512th st,1
 brighton 10th path,1
-beach 37th st,1
-21573rd st,1
-151-42 82nd st,1
-12107th st,1
-74-06 64th ln,1
-richmond st,1
-112451st st,1
-george st,1
-1130th st,1
-macon st,1
-taylor ave,1
+53rd ave,1
+303113th st,1
 freedom ave,1
-25-02 169th st,1
-boller ave,1
-20074th st,1
-23573rd st,1
-84-70 129th st,1
-44457th st,1
-948217th st,1
-powell st,1
-willow,1
-lyman pl,1
-504135th st,1
-272107th st,1
-82-35 134th st,1
-42-40 bowne st,1
-234-4 131st ave,1
-flagg ct,1
-story ave ,1
-12755th st,1
-148-05 111th ave,1
-158-35 87th st,1
-plimpton ave,1
-43-40 union st,1
-prince st apt,1
-32-39 jordan st,1
-austin pl apt,1
-101-55 112th st,1
-bay 22nd st,1
-richmond terrace apt,1
- centre st,1
-hicks st apt,1
-waldron ave,1
-wiman ave,1
-479th st,1
-16-33 166th st,1
-fairview ave,1
-11157th st,1
-241-49 148th dr,1
-21411th st,1
-25021st st,1
-111-31 141st st,1
-86-05 91st ave,1
-254-06 craft ave,1
-229tremont ave,1
-564th st,1
-157126th st,1
- morrison ave,1
-van name ave,1
-91-15 lamont ave,1
-28-31 hobart st,1
-clove way,1
-71st rd,1
-throgs neck expy,1
-loretto st,1
-149-07 85th rd,1
-33-24 junction blvd,1
-lynn ct,1
-hinsdale st,1
-44-55 kissena blvd,1
-berry st,1
-simon ct,1
-130-24 150th st,1
-150948th st,1
-204-34 9th ave,1
-lamont ave,1
-indale ave,1
-warren st,1
-206-4 emily rd,1
-57929th st,1
-15772nd st,1
-32-40 48th st,1
-517142nd st,1
-grand central pkwy apt,1
-163-4 71st ave,1
-marion ave,1
-miles ave,1
-13780th st,1
-mapleton ave,1
-954th st,1
-ohm ave,1
-25189th st,1
-patterson ave,1
-7c edgewater park,1
-237-14 93rd rd,1
-prince st,1
-29-18 brookhaven ave,1
-85039th st,1
-11071st st,1
-mac donough pl,1
-mountainview ave,1
-340234th st,1
-6th ave apt,1
-adelphi ave,1
-dare ct,1
-ct,1
-21575th st,1
-armstrong ave,1
-s oak dr,1
-103-12 104th st,1
-135-38 224th st,1
-neutral ave,1
-4574th st,1
-421154th st,1
-longview rd,1
-1928th st,1
-118th st apt,1
-s 2nd st apartment,1
-901106th st,1
-89-00 170th st,1
-36-34 clearview expy,1
-coleman st,1
-248-08 82nd ave,1
-747217th st,1
-223-30 107th ave,1
-wall st,1
-frost st,1
-lamoka ave,1
-point breeze ave,1
-15594th st,1
-456134th st,1
-151-40 88th st,1
-65-07 181st st,1
-214- 15th ave,1
-125th rd,1
-123-10 ocean prom,1
-beach 120th st,1
-137-06 132nd ave,1
-forest ave,1
-95-15 108th st,1
-208th pl,1
-vera st,1
-beach 109th st,1
-244-89 61st ave,1
-162-14 97th st,1
-16-38 157th st,1
-middlemay cir,1
-85-33 radnor st,1
-66-23 alderton st,1
-61-35 98th st,1
-664161st st,1
-cayuga ave bsmt,1
-overing st,1
-132-11 centerville st,1
-41987th st,1
-222-44 41st rd,1
-rensselaer ave,1
-locust point dr,1
-endeavor pl,1
-rolling hill green,1
-313118th st,1
-commerce st ,1
-arthur kill rd,1
-233112th st,1
-15924th st,1
-67-12 yellowstone blvd,1
-3rd st,1
-32-16 61st st,1
-schofield st,1
-62nd st,1
-98-05 63rd rd,1
-katan ave,1
-14-12 bonnie ln,1
-legion st,1
-colon ave,1
-portland pl,1
-taft ave,1
-1469th st,1
-mt olivet crescent apt,1
-tarring st,1
-85-16 chevy chase st,1
-knapp st,1
-62-15 82nd pl,1
-greentree ln,1
-12838th st,1
-bement ave,1
-67-44 kessel st,1
-11119th st,1
-85-29 66th ave,1
-23978th st,1
-61-29 75th st,1
-117-02 111th ave,1
-59-14 69th st,1
-81-15 queens blvd,1
-216-10 17th ave,1
-484a 7th ave,1
-249-07 88th rd,1
-clay pit rd,1
-bradley ave,1
-204738th st,1
-70-17 nansen st,1
-durland pl,1
-magnolia pl,1
-avenue n,1
-renfrew pl,1
-avenue r,1
-18-70 211th st,1
+860181st st apt,1
+walker st,1
+4570th st,1
+whitson st,1
+113986th st,1
+pennsylvania ave,1
+56th ave,1
+saunders st,1
+tudor rd,1
+15037th st,1
+midland ave,1
+francis lewis blvd,1
+duffield st,1
+191426th st,1
+greencroft ln,1
+217122nd st,1
+171718th st,1
+29255th st,1
+34556th st,1
+13777th st,1
+union st apartment,1
+3173rd st,1
+prospect park southwest apartment,1
+26127th st,1
+1764th st,1
+4496th st,1
+100th dr,1
+25075th st,1
+kirshon ave,1
+cherry ave,1
+92184th st,1
+savo loop,1
+nixon ave,1
+32190th st,1
+21944th st,1
+43182nd st,1
+edgecombe ave,1
+32057th st,1
+harding ave,1
+gower st,1
+park ave s apartment,1
+hunter ave,1
+5131st st,1
+204467th st,1
+12970th st,1
+powers st,1
+autumn ave,1
+232118th st,1
+1776th st,1
+brightwater ct,1
+lovell ave,1
+bennett ave ,1
+giegerich pl,1
+69th ave apt,1
+7045th st ph,1
+2982nd st apartment,1
+2483rd st,1
+2963rd st,1
+weirfield st,1
+alstyne ave,1
+huntington st,1
+2379th st c,1
+34374th st,1
+149528th st,1
+552141st st,1
+greene st,1
+cornelia st apt,1
+34019th st apt,1
+216117th st,1
+48793rd st,1
+oriental blvd,1
+ilion ave,1
+beach 126th st,1
+dean st,1
+deems ave,1
+2278th st,1
+86th ave,1
+hastings st,1
+park ln,1
+438162nd st,1
+16664th st,1
+15422nd st,1
+simmons ln,1
+empire blvd,1
+36022nd st,1
+23370th st,1
+12335th st,1
+51126th st,1
+6182nd st,1
+16560th st,1
+van nest ave,1
+24525th st,1
+newman ave,1
+5793rd st,1
+walker st ,1
+229th st,1
+beach 60th st,1
+n pine terrace,1
+beach 125th st,1
+264th st,1
+113th rd,1
+661228th st,1
+bay ridge pkwy apt,1
+535163rd st,1
+4088th st ,1
+41652nd st ,1
+holly st,1
+bay terrace,1
+morgan ave,1
+148553rd st,1
+311138th st,1
+30212th st apt,1
+33346th st,1
+long pond ln,1
+hill st,1
+britton ave,1
+20090th st,1
+poillon ave,1
+fort pl,1
+32154th st,1
+31551st st,1
+beach 9th st,1
+s 2nd st,1
+pelham pkwy s,1
+magenta st,1
+albion pl,1
+astor ave,1
+burden crescent,1
+menahan st,1
+31392nd st,1
+barclay ave,1
+mcgraw ave,1
+hunter pl,1
+203436th st,1
+schermerhorn st,1
+hudson manor terrace,1
+vireo ave,1
+158th ave,1
+bedell ln,1
+10685th st,1
+navigator ct,1
+69th ln,1
+balcom ave,1
+tilden ave,1
+167th st,1
+34555th st,1
+bond st apt,1
+20595th st,1
+41787th st,1
+21153rd st,1
+ladd rd,1
+57th st,1
+park dr n,1
+briggs ave,1
+254629th st,1
+6684th st,1
 chestnut ave,1
 3927th st,1
 4th ave apt,1
-arlo rd  a,1
-18-29 george st,1
-15-03 201st st,1
-gianna ct,1
-4322tremont ave,1
-83-40 austin st,1
-north dr,1
-118-14 pl,1
-84-11 165th ave,1
-barclay ave,1
-andrews ave s,1
-119-44 193rd st,1
-hunter pl,1
-canterbury ave,1
-60-17 59th ave,1
-edenwald ave,1
-45619th st,1
-edson ave,1
-102-15 215th st,1
-adrian ave,1
-20774th st,1
-164-31 99th st,1
-88-08 gettysburg st,1
-lamberts ln,1
-2nd pl,1
-south st,1
-stalie ct,1
-87-45 253rd st,1
- 161110th st,1
-86-27 125th st,1
-62-24 65th st,1
-116-25 134th st,1
-87-07 158th ave,1
-escanaba ave,1
-62187th st,1
-pelham pkwy s,1
-114-36 sutter ave,1
-jamie ct,1
-wainwright ave,1
-55834th st,1
-south ave,1
-91-18 173rd st,1
-155- 79th st,1
-bronxwood ave,1
-157-23 16th rd,1
-austin pl,1
-43132nd st,1
-76th st,1
-cunard ave,1
-242235th st,1
-31-15 102nd st,1
-olympia blvd,1
-spratt ave,1
-d edgewater park,1
-90-07 107th ave,1
-30-53 35th st,1
-bedell ln,1
-navigator ct,1
-122-4 115th ave,1
-136-17 carlton pl,1
-mead st,1
-college point blvd,1
-235138th st,1
-preston ave,1
-alderbrook rd,1
-153-10 89th ave,1
-13487th st,1
-hoover ave apt,1
-164th dr,1
-75-43 113th st,1
-31-42 41st st,1
-beach 44th st,1
-1698new york ave,1
-41-39 56th st,1
-36138th st,1
-bay ridge pkwy apt,1
-253226th st,1
-39-65 52nd st,1
-24-47 43rd st,1
-750a lafayette ave,1
-45250th st,1
-86-30 91st st,1
-15589th st,1
-st peters ave,1
-40-51 172nd st,1
-34-40 79th st,1
-221572nd st,1
-willett ave,1
-crotona park e,1
-165-15 cross island pkwy,1
-highland rd,1
-150-25 72nd rd,1
-gerritsen ave,1
-harrison ave,1
-elm ave,1
-miami ct,1
-88-25 63rd ave,1
-43-28 169th st,1
-280526th st,1
-88-47 247th st,1
-126-18 148th st,1
-53-30 61st st,1
-40090th st,1
-138534th st,1
-clark st,1
-huxley ave,1
-495th st,1
-7177th st apt,1
-stuyvesant st,1
-skyline dr,1
-263528th st,1
-battery ave,1
-park hill ct,1
-drew st,1
-14126th st apt,1
-oldfield st,1
-queens blvd apt,1
-beach rd,1
-laguardia pl apt,1
-beach 9th st,1
-33-37 71st st,1
-78th st apt,1
-beadel st,1
-96208th st,1
-aquatic pl,1
-18-15 215th st,1
-33rd st apt,1
-88-44 202nd st,1
-21-15 33rd st,1
-22380th st apt,1
-67th ave,1
-tiffany pl,1
-215-20 104th ave,1
-ada dr ,1
-laconia ave,1
-18a bleecker st,1
-ebbitts st,1
-clinton b fiske ave,1
-van brunt st,1
-70-31 108th st,1
-suffolk ave,1
-gravesend neck rd,1
-lucerne st,1
-45loop rd,1
-halsey st,1
-120-46 238th st,1
-coale ave,1
-865th st apt,1
-71022nd st,1
-42023rd st,1
-billingsley terrace,1
-12-5 estates ln,1
-150-14 village rd,1
-31565th st,1
-134136th st,1
-166-32 16th rd,1
-39-22 221st st,1
-229144th st apt,1
-marine ave apt,1
-20017th st,1
-130956th st,1
-13687th st,1
-corporal kennedy st apt,1
-13681st st,1
-70-33 65th pl,1
-247221st st,1
-104-37 116th st,1
-14069th st apt,1
-16th ave,1
-88-30 51st ave,1
-hillmeyer rd,1
-17783rd st,1
-bridge park dr ph,1
-84-42 85th rd,1
-164592nd st,1
-3484th st,1
-havemeyer st,1
-maple st,1
-2588th st,1
-42-22 ketcham st,1
-hooker pl,1
-5394th st,1
-120-41 132nd st,1
-91-11 92nd st,1
-b 26th st,1
-15154th st,1
-cassidy pl,1
-1043rd st,1
-155-11 14th ave,1
-bronx,1
-president st,1
 jenna ln,1
-109-20 queens blvd,1
-greystone ave,1
-161131st st,1
-30074th st,1
-court st,1
-s 4th st,1
-65-10 108th st,1
-summit ave,1
-206-17 emily rd,1
-francine ct,1
-clifton st,1
-108673rd st,1
-53084th st,1
-37-21 80th st,1
-63-36 99th st,1
-1217101st st,1
-21598th st,1
-137993rd st,1
-111-87 43rd ave,1
-dean st apartment,1
-brighton 3rd st,1
-21831st st,1
-31-21 54th st,1
-warren st apt,1
-112-01 queens blvd,1
-leverett ave,1
-cambridge ave,1
-41585th st,1
-5030th st ph,1
-home st,1
-88-8 151st ave,1
-35-24 78th st,1
-120-10 135th st,1
-14144th st,1
-tudor city pl apt,1
-12183rd st,1
-215138th st,1
-66-15 thornton pl,1
-668th st,1
-neilson st apt,1
-31069th st,1
-40-40 203rd st,1
-14-43 28th ave,1
-171922nd st,1
-15186th st,1
-4196th st,1
-durant ave,1
-4067th st,1
-st lawrence ave,1
-corson ave,1
-171714th st,1
-wallace ave,1
-beach 117th st,1
-87-05 166th st,1
-102-10 66th rd,1
-144-40 71st ave,1
-42563rd st,1
-64-56 woodbine st,1
-12-15 broadway,1
-233015th st,1
-28734th st,1
-765224th st,1
-303113th st,1
-860181st st apt,1
-15263rd st,1
-16560th st,1
-6182nd st,1
-51126th st,1
-214-03 16th ave,1
-68-09 138th st,1
-23370th st,1
-35-51 85th st,1
-empire blvd,1
-bedford ave apt,1
-fort washington ave apt,1
-82-61 172nd st,1
-132-14 horace harding expy,1
-131-01 40th rd,1
-245-54 62nd ave,1
-clay ave,1
-46846th st,1
-roanoke st,1
-18093rd st,1
-dupont st,1
-40-18 190th st,1
-769th st,1
-165719th st,1
-545111th st,1
-20089th st apt,1
-23979th st,1
-59-43 madison st,1
-sullivan pl,1
-boynton ave,1
-112-50 78th ave,1
-31-10 95th st,1
-15422nd st,1
-438162nd st,1
-morgan ave,1
-32154th st,1
-fort pl,1
-20090th st,1
-britton ave,1
-hill st,1
-long pond ln,1
-33346th st,1
-franklin ave,1
-35-38 75th st,1
-32-40 87th st,1
-311138th st,1
-40-20 217th st,1
-bay terrace,1
-43-45 walker st ,1
-41652nd st ,1
-4088th st ,1
-535163rd st,1
-31551st st,1
-5793rd st,1
-park ln,1
-63-12 136th st,1
-22-11 33rd st,1
-hastings st,1
-256-16 86th ave,1
-2278th st,1
-deems ave,1
-dean st,1
-beach 126th st,1
-188-39 ilion ave,1
-oriental blvd,1
-48793rd st,1
-216117th st,1
-34019th st apt,1
-110-25 217th st,1
-cornelia st apt,1
-greene st,1
-552141st st,1
-24525th st,1
-150105th st,1
-149-42 17th rd,1
-84-96 austin st,1
-prospect park southwest apt,1
-46-10 glenwood st,1
-66-27 gray st,1
-60-65 55th st,1
-99-11 43rd ave,1
-crown ave,1
-99-44 62nd ave,1
-21-77 33rd st,1
-johnston terrace,1
-40-26 benham st,1
-junius st,1
-77th st apt,1
-48-36 65th pl,1
-111- 66th ave,1
-213120th st,1
-32143rd st apt,1
-13-63 209th st,1
-80-48 193rd st,1
-79-28 68th ave,1
-525150th st,1
-imlay st,1
-22914th st,1
-brighton 2nd pl,1
-mann ave,1
-3322nd st,1
-52251st st,1
-68-2 140th st,1
-30333rd st,1
-93987th st,1
-159-18 28th ave,1
-pearson st,1
-1279th st,1
-99-15 66th ave,1
-dover st,1
-12132nd st,1
-717221st st,1
-94-24 53rd ave,1
-38512th st,1
-18088th st,1
-153422nd st,1
-85-10 79th st,1
-32552nd st,1
- 98th pl,1
-250103rd st,1
-15697th st,1
-110-38 64th ave,1
-12-12 120th st,1
-132-59 41st rd,1
-20170th st,1
-43034th st.,1
-45757th st,1
-falmouth st,1
-hutchinson riv pkwy,1
-liberty st ph,1
-n henry st,1
-12-29 estates ln,1
-66-05 garfield ave,1
-19-26 81st st,1
-5th st,1
-mercer st,1
- 2322nd st,1
-71-36 110th st,1
-198-06 100th ave,1
-115-15 127th st,1
-beaver st apt,1
-85-34 chevy chase st,1
-94-35 corona ave.,1
-poi ct,1
-121-26 7th ave,1
-dean ave,1
-52nd st apt,1
-120th st,1
-3rd ave ph b,1
-41-50 78th st,1
-15349th st,1
-5072nd st,1
-28812th st,1
-160-44 26th ave,1
-163- 17th ave,1
-lefferts pl,1
-20516th st,1
+arlo rd  a,1
+president st,1
+201st st,1
+bronx,1
+1043rd st,1
+gianna ct,1
+cassidy pl,1
+15154th st,1
+b 26th st,1
 buttrick ave,1
 14195th st,1
-20-48 steinway st,1
-32-15 168th st,1
-160-14 83rd st,1
-oak dr,1
-95-18 42nd ave,1
-s portland ave,1
-dunham st,1
-41023rd st,1
-145-38 3rd ave,1
-114-15 91st ave,1
-greenwich st ph e,1
-118-18 225th st,1
-riverside dr ,1
-72-61 113th st,1
-104-06 212th st,1
-17-20 150th st,1
-64-30 72nd st,1
-240-67 poplar st,1
- henry hudson pkwy,1
-wellington ct,1
-51987th st d,1
-137-25 133rd ave,1
-brighton ct,1
-knollwood ave,1
-norwood ave,1
-ocean terrace,1
-121072nd st,1
-175551st st,1
-115-14 10th ave,1
-mercer st apt,1
-65-15 38th ave,1
-91st st,1
-archwood ave,1
-jamie ln,1
-10-40 neilson st,1
-linwood st,1
-carroll st apartment,1
-33420th st,1
-88-20 78th st,1
-205238th st,1
-48th ave ph,1
-harbor rd,1
-7th st,1
-greene st apt,1
-pilot st,1
-41157th st,1
-bowery,1
-207274th st,1
-114-06 194th st,1
-flagg pl,1
-van cortlandt park e,1
-bay 25th st,1
-boone st,1
-5195th st,1
-murdock pl,1
-188353rd st,1
-guyon ave,1
-61-20 71st ave,1
-26-39 93rd st,1
-172714th st,1
-murray st ph,1
-190mosholu pkwy s,1
-katan loop,1
-13515th st,1
-12019th st,1
-160645th st,1
-234-18 131st ave,1
-bascom pl,1
-29445th st,1
-48-17 42nd st,1
-mc arthur ave,1
-102-37 68th ave,1
-annfield ct,1
-146-11 delaware ave,1
-100-25 queens blvd,1
-madeline ct,1
-110-42 213th st,1
-84-19 253rd st,1
-99-10 60th ave,1
-93-05 37th ave,1
-63-44 72nd st,1
-144-58 boulevard,1
-107073rd st,1
-281817th st,1
-60th ave apt,1
-2513th st,1
-13281st st,1
-metropolitan oval,1
-788th st,1
-112-50 northern blvd,1
-164-30 77th rd,1
-1064th st,1
-86-10 dumont ave,1
-100-03 205th pl,1
-260124th st,1
-104-02 223rd st,1
-13519th st,1
-91-09 165th ave,1
-224766th st,1
-needham ave,1
-darlington ave,1
-ellis st,1
-322104th st,1
-baltic st ,1
-205173rd st,1
-herschell st,1
-149-19 46th ave,1
-59-38 linden st,1
-52181st st,1
-forest hill rd,1
-clinton ave,1
-flagship cir,1
-bay 46th st,1
-159-31 80th st,1
-sutton square,1
-22981st st,1
-328108th st,1
-cambreleng ave,1
-137-06 oak ave,1
-kosciuszko st,1
-castleton ave,1
-union st,1
-67-101 dartmouth st,1
-snediker ave,1
-goff ave,1
-58-15 granger st,1
-20931st st,1
-72918th st,1
-tenbroeck ave,1
-78-18 74th st,1
-1572nd st,1
-640231st st,1
- 84-12 35th ave,1
-beach channel dr,1
-42284th st,1
-61-23 booth st,1
-71-12 66th st,1
-25590th st,1
-32-26 parsons blvd,1
-85-28 grand ave,1
-133-38 130th st,1
-144-55 melbourne ave,1
-anaconda st,1
-164th ave,1
-jansen st,1
-18-35 corporal kennedy st,1
-31577th st,1
-617227th st,1
-130-35 146th st,1
-nome ave,1
-172051st st,1
-brookside lp,1
-dartmouth st,1
-128-17 143rd st,1
-110-11 72nd ave,1
-115-11 142nd st,1
- 25574th st,1
-24029th st,1
-laurel ave,1
-narragansett ave,1
-hett ave,1
-21721st st,1
-164-47 73rd ave,1
-16780th st,1
-82nd ave ,1
-202-24 45th rd,1
-arden ave,1
-2366th st,1
-kane st,1
+steinway st,1
 shiloh st,1
-31-38 137th st,1
-18-75 corporal kennedy st,1
-214-39 45th dr,1
-699th st,1
-1596th st,1
-23rd ave apt,1
-melrose st,1
-100th st,1
-161-169110th st ,1
-10770th st,1
-68-09 olcott st,1
-116-46 233rd st,1
+margaret pl,1
+north dr,1
+216472nd st,1
+250103rd st apt,1
+169th st apartment,1
+23948th st,1
+pl,1
+44622nd st,1
+jewel ave  a,1
+504110th st,1
+carlton pl,1
+122nd ave,1
+suffolk ave,1
+127870th st,1
+humboldt st,1
+richards st,1
+261st st,1
+hoover ave apt,1
+new dorp plaza,1
+15179th st fl,1
+164th dr,1
+west end ave ,1
+crystal st,1
+54th ave,1
+franklin st fl,1
+13th ave,1
+579215th st,1
+beach 44th st,1
+36th ave,1
+204th st ,1
+fowler ave,1
+gabrielle ct,1
+d edgewater park,1
+sprague ave,1
+62187th st,1
+ridge blvd apt,1
+15051st st,1
+spratt ave,1
+dixon ave,1
+n burgher ave,1
+amber st,1
+17085th st,1
+792nd st,1
+mead st,1
+beach 69th st,1
+93rd ave,1
 beach 13th st,1
-181-10 93rd ave,1
-193-06 122nd ave,1
-254629th st,1
-57th st,1
-ladd rd,1
-21153rd st,1
+235138th st,1
+233rd st,1
+10770th st,1
+137th st,1
+161169110th st ,1
+preston ave,1
+melrose st,1
+23rd ave apt,1
+1596th st,1
+699th st,1
+alderbrook rd,1
+45th dr,1
+89th ave,1
 201859th st ,1
 246123rd st,1
 44th st,1
 n railroad ave,1
-15179th st fl,1
-new dorp plaza,1
-86-58 261st st,1
-richards st,1
-humboldt st,1
-17085th st,1
-127870th st,1
-792nd st,1
-beach 69th st,1
-83-75 117th st,1
-42249th st,1
-mt morris park w,1
-314138th st,1
-15534th st,1
-54augusta ave,1
-horatio st,1
+13487th st,1
 52522nd st,1
-196-44 69th ave,1
-41787th st,1
-31-20 buell st,1
-astor ave,1
-park dr n,1
-magenta st,1
-briggs ave,1
-6684th st,1
-504110th st,1
-jewel ave  a,1
-44622nd st,1
-220-19 135th ave,1
-79-10 grand ave,1
-108-36 ditmars blvd,1
-49th st,1
-23948th st,1
-169th st apartment,1
-250103rd st apt,1
-216472nd st,1
-80-07 margaret pl,1
-130-21 lefferts blvd,1
-albion pl,1
-140-95 burden crescent,1
-20595th st,1
-17-25 menahan st,1
-bond st apt,1
-34555th st,1
-49-12 167th st,1
-tilden ave,1
-85-15 main st,1
-balcom ave,1
-61-26 69th ln,1
-10685th st,1
-65-15 yellowstone blvd,1
-209-35 30th ave,1
-vireo ave,1
-hudson manor terrace,1
-47-31 216th st,1
-schermerhorn st,1
-203436th st,1
-mcgraw ave,1
-31392nd st,1
-150-123 powells cove blvd,1
-west end ave ,1
-crystal st,1
-83-71 116th st,1
-olmstead ave,1
-139-32 laurelton pkwy,1
-31881st st,1
-100119th st,1
-145515th st,1
-1st st,1
-highland blvd,1
-147-18 16th rd,1
-overlook ave,1
-shore front pkwy ,1
-20117th st,1
-42051st st apartment,1
-229-17 87th ave,1
-38518th st,1
-97-19 63rd dr,1
-55190th st apt,1
-40077th st,1
-norwood ct,1
-12087th st,1
-14th ave,1
-cambridge pl,1
-12935th st,1
-43-06 rockaway beach blvd,1
-undercliff ave,1
-209-10 41st ave,1
-seton ave,1
-145th st,1
-132214th st,1
-250665th st,1
-rossville ave,1
-89-22 210th pl,1
-camden ave,1
-o'gorman ave,1
-21717th st,1
-medina st,1
-baden pl,1
-11272nd st ph c,1
-3826th st,1
-excelsior ave,1
-42514th st,1
-69-29 54th ave,1
-n burgher ave,1
-79-26 268th st,1
-42-32 81st st,1
-15051st st,1
-18-50 211th st,1
-ridge blvd apt,1
-sprague ave,1
-gabrielle ct,1
-80-31 188th st,1
-131-19 fowler ave,1
-204th st ,1
-108-16 36th ave,1
-134-25 241st st,1
-86-2 dumont ave,1
-579215th st,1
-146-06 13th ave,1
-franklin st fl,1
-132-31 219th st,1
-dixon ave,1
-133- amber st,1
-109-06 112th st,1
-50-07 63rd st,1
-83-9 talbot st,1
-147-48 8th ave,1
-203-03 34th ave,1
-332101st st,1
-58-16 83rd pl,1
- 35-25 77th st,1
-water st ste c,1
-morningstar rd,1
-44056th st,1
-155-17 113th ave,1
-zerega ave,1
-131996th st,1
-29-31 159th st,1
-24055th st,1
-53-15 37th rd,1
-511144th st,1
-35-05 214th pl,1
+horatio st,1
+15534th st,1
+314138th st,1
+mt morris park w,1
+42249th st,1
+117th st,1
+greystone ave,1
+161131st st,1
+30074th st,1
+15589th st,1
+lamoka ave,1
+edenwald ave,1
+miami ct,1
+45619th st,1
+280526th st,1
+oldfield st,1
+14126th st apt,1
+drew st,1
+park hill ct,1
+battery ave,1
+263528th st,1
+skyline dr,1
+edson ave,1
+stuyvesant st,1
+7177th st apt,1
+495th st,1
+huxley ave,1
+clark st,1
+138534th st,1
+40090th st,1
+247th st,1
+marine ave apt,1
+221572nd st,1
+20017th st,1
+17783rd st,1
+home st,1
+5030th st ph,1
+45250th st,1
+st peters ave,1
+avenue r,1
+1928th st,1
+229144th st apt,1
+134136th st,1
+31565th st,1
+village rd,1
+1130th st,1
+billingsley terrace,1
+42023rd st,1
+71022nd st,1
+865th st apt,1
+coale ave,1
+238th st,1
+longview rd,1
+halsey st,1
+rd,1
+lucerne st,1
+gravesend neck rd,1
+136892nd st,1
+laguardia pl apt,1
+beach rd,1
+queens blvd apt,1
+elm ave,1
+harrison ave,1
+gerritsen ave,1
+highland rd,1
+crotona park e,1
+willett ave,1
+253226th st,1
+41585th st,1
+cambridge ave,1
+leverett ave,1
+warren st apt,1
+135th st,1
+108673rd st,1
+clifton st,1
+francine ct,1
+125th st,1
+2588th st,1
+maple st,1
+havemeyer st,1
+3484th st,1
+164592nd st,1
+bridge park dr ph,1
+canterbury ave,1
+hillmeyer rd,1
+13687th st,1
+14069th st apt,1
+247221st st,1
+magnolia pl,1
+13681st st,1
+corporal kennedy st apt,1
+hooker pl,1
+5394th st,1
+andrews ave s,1
+summit ave,1
+avenue n,1
+renfrew pl,1
+s 4th st,1
+court st,1
+tudor city pl apt,1
+12183rd st,1
+215138th st,1
+171714th st,1
+21831st st,1
+adrian ave,1
+brighton 3rd st,1
+dean st apartment,1
+20774th st,1
+137993rd st,1
+21598th st,1
+1217101st st,1
+gettysburg st,1
+lamberts ln,1
+53084th st,1
+14144th st,1
+corson ave,1
+ 161110th st,1
+st lawrence ave,1
+4067th st,1
+durant ave,1
+4196th st,1
+15186th st,1
+171922nd st,1
+2nd pl,1
+south st,1
+31069th st,1
+stalie ct,1
+neilson st apt,1
+668th st,1
 42721st st,1
